@@ -1,0 +1,1257 @@
+/* ---------------------------------------------------------------- */
+/* ----- Functionality/Application/PersonalInformation.swift ------ */
+/* ---------------------------------------------------------------- */
+/* Password recovery link. */
+"PersonalInformation.swift: Password Recovery link" = "https://www.lookout.com/m/recover";
+/* Support link. */
+"PersonalInformation.swift: Support link" = "https://personal.support.lookout.com";
+/* App Store link. */
+"PersonalInformation.swift: App Store link" = "https://itunes.apple.com/us/app/id%@?mt=8";
+/* Link for SCL code redemption. */
+"PersonalInformation.swift: SCL Redeem link" = "https://lookout.com/redeem";
+
+/* -------------------------------------------------------------------------------------------- */
+/* ----- Functionality/SafeBrowsing/SafeBrowsingConfigControllerAppConfig+Personal.swift ------ */
+/* -------------------------------------------------------------------------------------------- */
+/* Display name in iOS VPN settings. */
+"SafeBrowsingConfigControllerAppConfig+Personal.swift: VPN Display Name" = "Lookout Safe Browsing";
+
+/* ----------------------------------------------------------------------------- */
+/* ----- Functionality/Service/Entitlement/EntitlementAPI+Extension.swift ------ */
+/* ----------------------------------------------------------------------------- */
+/* User-facing name for basic account type. */
+"EntitlementAPI+Extension.swift: Basic Account Type" = "Basic";
+/* User-facing name for premium account type. */
+"EntitlementAPI+Extension.swift: Premium Account Type" = "Premium";
+/* User-facing name for premium plus account type. */
+"EntitlementAPI+Extension.swift: Premium Plus Account Type" = "Premium Plus";
+
+/* --------------------------------------------------------------- */
+/* ----- UI/BreachReport/BreachReportDetailUpsellView.swift ------ */
+/* --------------------------------------------------------------- */
+/* Text for ID Pro Introduction Title */
+"BreachReportDetailUpsellView.swift: IDProTitle" = "Want to be alerted if any of your personal information is leaked in the future?";
+/* Text for ID Pro Description */
+"BreachReportDetailUpsellView.swift: IDProDescription" = "Lookout can scan the internet for any personal information being sold or shared online.";
+/* Text for ID Pro Button */
+"BreachReportDetailUpsellView.swift: IDProButtonText" = "LEARN MORE ABOUT ID PROTECTION";
+
+/* ---------------------------------------------------------------- */
+/* ----- UI/Dashboard/DashboardStatusBarContent+Values.swift ------ */
+/* ---------------------------------------------------------------- */
+/* Message in the dashboard's status bar when multiple features are active and
+ no problems are present.
+ */
+"DashboardStatusBarContent+Values.swift: EverythingOkay" = "Everything is OK";
+/* Template for the message in the dashboard's status bar when only one feature
+ is active and it has no problems to report.
+ */
+"DashboardStatusBarContent+Values.swift: SingleOkay" = "%@ is OK";
+/* Template for the message in the dashboard's status bar when a single feature
+ has problems to report. The name of the feature is substituted into the
+ placeholder.
+ */
+"DashboardStatusBarContent+Values.swift: SingleIssue" = "Review %@";
+/* Message in the dashboard's status bar when multiple features are active and
+ more than one of them has problems to report.
+ */
+"DashboardStatusBarContent+Values.swift: MultipleIssues" = "Review %d issues below";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/Dashboard/DashboardViewController.swift ----------- */
+/* ---------------------------------------------------------------- */
+/* "GET MORE" button in the top-right corner of the dashboard screen. */
+"DashboardViewController.swift: GetMore" = "GET MORE";
+/* Discount message text of MessageBar of the dashboard screen. */
+"DashboardViewController.swift: Discount MessageBarMessage" = "Limited Offer: Upgrade to Identity Protection for a special discount price";
+/* Trial message text of MessageBar of the dashboard screen. */
+"DashboardViewController.swift: Trial MessageBarMessage" = "Special Offer: Try Premium Plus for Free for %@ Days";
+/* Trial message text for Premium of MessageBar of the dashboard screen. */
+"DashboardViewController.swift: Trial MessageBarMessage For Premium" = "Special Offer: Try Premium for Free for %@ Days";
+/* Discount message text for Premium of MessageBar of the dashboard screen. */
+"DashboardViewController.swift: Discount MessageBarMessage For Premium" = "Limited Offer: Upgrade to protect your privacy for a special discount price";
+/* Secure DNS uninstalled alert title */
+"DashboardViewController.swift: Secure DNS Uninstall Title" = "Privacy Guard disabled";
+/* Secure DNS uninstalled alert message */
+"DashboardViewController.swift: Secure DNS Uninstall Message" = "We have detected an issue on privacy guard and disabled the feature until it is resolved. Please setup Safe Browsing again in order to stay protected.";
+
+/* -------------------------------------------------------------------------------------------- */
+/* --------- UI/Dashboard/Feature/TheftAlerts/TheftAlertsUpsellViewController.swift ----------- */
+/* -------------------------------------------------------------------------------------------- */
+/* Title of the Theft Alerts feature Upsell screen. */
+"TheftAlertsUpsellViewController.swift: Title" = "Theft Alerts";
+/* Theft Alerts feature description. */
+"TheftAlertsUpsellViewController.swift: Description" = "We can send you a Theft Alert email with the location of your device whenever we see activity that could mean it has been stolen, such as:";
+/* Title of the Sim Card Removed feature. */
+"TheftAlertsUpsellViewController.swift: Sim Card Removed Feature Title" = "Your SIM card is removed";
+/* Title of the Airplane Mode Enabled feature. */
+"TheftAlertsUpsellViewController.swift: Airplane Mode Enabled Title" = "Airplane mode is enabled";
+/* Text explaining subscription details (i.e. price). */
+"TheftAlertsUpsellViewController.swift: Subscription Details" = "This and more for only $2.99/month";
+/* Title of the button allowing user to get Premium subscription. */
+"TheftAlertsUpsellViewController.swift: Get Premium Button Title" = "Get Premium";
+/* Title of the button allowing user send an example email. */
+"TheftAlertsUpsellViewController.swift: Send An Example Title" = "Send me an example";
+
+/* ------------------------------------------------------------------------------------ */
+/* --- UI/Education/EducationViewController.swift ---- */
+/* ------------------------------------------------------------------------------------ */
+/* Header of the introduction view */
+"EducationViewController.swift: Header" = "New: Discover ID Scan now!";
+
+/* Feature explanation in the introduction view */
+"EducationViewController.swift: Feature Explanation" = "With ID Scan, Lookout finds out if any of your sensitive information has leaked during a data breach.";
+
+/* Got it button title */
+"EducationViewController.swift: Got It Button Title" = "Got it";
+
+/* Try it now button title */
+"EducationViewController.swift: Try It Now Button Title" = "Try it now";
+
+/* ------------------------------------------------------------------- */
+/* -------- UI/Onboarding/PremiumOnboardingController.swift ---------- */
+/* ------------------------------------------------------------------- */
+/* Welcome header for premium user */
+"PremiumOnboardingViewController.swift: Premium Welcome" = "Welcome to Lookout Premium!";
+/* Welcome header for premium plus users */
+"PremiumOnboardingViewController.swift: Premium Plus Welcome" = "Welcome to Lookout Premium Plus!";
+/* Get started button for premium users */
+"PremiumOnboardingViewController.swift: Setup Now" = "SETUP NOW";
+/* Set up ID pro button for premium plus users */
+"PremiumOnboardingViewController.swift: Set Up ID Pro" = "SET UP IDENTITY PROTECTION";
+/* Do it later button for premium plus users */
+"PremiumOnboardingViewController.swift: Do It Later" = "Do it later";
+/* ID pro detail text */
+"PremiumOnboardingViewController.swift: ID Pro Detail" = "Monitor your private information and protect against fraud";
+/* Premium plus insurance detail text */
+"PremiumOnboardingViewController.swift: Insurance Detail" = "$1M insurance coverage and 24/7 access to identity restoration experts";
+/* Breach Reports detail text */
+"PremiumOnboardingViewController.swift: Breach Reports Detail" = "Be alerted anytime a service you use is hacked";
+/* Setup needed label text */
+"PremiumOnboardingViewController.swift: Setup Needed" = "SETUP NEEDED";
+
+/* ----------------------------------------------------------------------------- */
+/* -------- UI/Onboarding/Configuration/PremiumOnboardingDetail.swift ---------- */
+/* ----------------------------------------------------------------------------- */
+/* ID Pro detail text */
+"PremiumOnboardingDetail.swift: ID Pro Detail" = "Monitor your private information and protect against fraud";
+/* Insurance detail text */
+"PremiumOnboardingDetail.swift: Insurance Detail" = "$1M insurance coverage and 24/7 access to identity restoration experts";
+/* Safe Wifi detail text */
+"PremiumOnboardingDetail.swift: Safe Wifi Detail" = "Detect attacks on Wi-Fi networks";
+/* Breach Reports detail text */
+"PremiumOnboardingDetail.swift: Breach Reports Detail" = "Be alerted anytime a service you use is hacked";
+/* Theft alerts detail text */
+"PremiumOnboardingDetail.swift: Theft Alerts Detail" = "Get email alerts when someone messes with your device";
+/* Safe Browsing detail text */
+"PremiumOnboardingDetail.swift: Safe Browsing Detail" = "Browse the web confidently and protect your device from phishing attacks";
+
+/* ----------------------------------------------------------------------------- */
+/* -------- UI/PremiumTrial/PremiumTrialLandingViewController.swift ------------ */
+/* ----------------------------------------------------------------------------- */
+/* Header title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Header Title" = "Get Identity Theft Protection";
+/* SubHeader title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: SubHeader Title" = "FREE for %@ days";
+/* Try Free Button title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Try Free Button title" = "Try free for %@ days";
+/* Not Now Button title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Not Now Button title" = "Not Now";
+/* View Terms and Conditions and Privacy Notice Statement for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Terms Statement" = "View our %1$@ and %2$@.";
+/* Replacement for %1$@ in template from above */
+"PremiumTrialLandingViewController.swift: Terms and Conditions" = "Terms and Conditions";
+/* Replacement for %2$@ in template from above */
+"PremiumTrialLandingViewController.swift: Privacy Notice" = "Privacy Notice";
+/* Price after trial period statement for PremiumTrialLanding screen where price is dynaic based on plan original price. */
+"PremiumTrialLandingViewController.swift: Price after Trial Period" = "Subscribe for %@%@";
+/* SubHeader title for Premium trial day available */
+"PremiumTrialLandingViewController.swift: FreeTrial Title" = "%@-Day FREE Trial";
+
+
+/*
+/* ----------------------------------------------------------------------------- */
+/* -------- UI/PremiumTrial/PremiumDescriptionContentView.swift ---------------- */
+/* ----------------------------------------------------------------------------- */
+/* Privacy Text for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Privacy Title" = "Privacy:";
+/* Privacy Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Privacy Description" = "%@ Get alerts when your private information is shared or sold online.";
+/* Insurance Text for PremiumDescriptionContentView screen  */
+"PremiumDescriptionContentView.swift: Insurance Title" = "Insurance:";
+/* Insurance Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Insurance Description" = "%@ Up to $1M insurance related to stolen identity.";
+/* Live Agent Text for PremiumDescriptionContentView screen  */
+"PremiumDescriptionContentView.swift: Live Agent Title" = "Live Agent:";
+/* Live Agent Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Live Agent Description" = "%@ 24/7 center with live experts to replace stolen cards, manage credit bureaus & restore identity.";
+/* Premium Privacy Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Premium Privacy Description" = "%@ Protect your personal data from phishing attacks and unsafe wi-fi.";
+/* Phishing Protection Text for PremiumDescriptionContentView screen  */
+"PremiumDescriptionContentView.swift: Phishing Protection Title" = "Phishing Protection:";
+/* Phishing Protection Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Phishing Protection Description" = "%@ Get protection from phishing scams.";
+/* Breach Notifications Text for PremiumDescriptionContentView screen  */
+"PremiumDescriptionContentView.swift: Breach Notifications Title" = "Breach Notifications:";
+/* Breach Notifications Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Breach Notifications Description" = "%@ Receive alerts when services you use have their data stolen or leaked online.";
+
+/* ----------------------------------------------------------------------------- */
+/* -------- UI/PremiumTrial/PremiumDiscountOnboardingRoute.swift --------------- */
+/* ----------------------------------------------------------------------------- */
+/* Alert title for products loading failure */
+"PremiumDiscountOnboardingRoute.swift: Product Loading Alert Title" = "We're having trouble loading content";
+/* Alert message for products loading failure */
+"PremiumDiscountOnboardingRoute.swift: Product Loading Alert Message" = "Please make sure you have a working internet connection and try again.";
+/* Alert title for purchase failure */
+"PremiumDiscountOnboardingRoute.swift: Purchase Alert Title" = "Unable to validate your purchase";
+/* Alert title for purchase message */
+"PremiumDiscountOnboardingRoute.swift: Purchase Alert Message" = "Please try again.";
+
+/* ----------------------------------------------------------------------------- */
+/* -------- UI/PremiumTrial/PremiumDiscountOnboardingViewController.swift ------ */
+/* ----------------------------------------------------------------------------- */
+/* Header title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Header Title" = "Special limited time discount offer";
+/* SubHeader title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: SubHeader Title" = "Protect your Privacy and \nIdentity with Premium Plus";
+/* Upgrade Now Button title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Upgrade Button Title" = "UPGRADE NOW %@/MO";
+/* Regular price text for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Regular Price Text" = "Regular Price %@";
+/* Premium discount Upgrade Now Button title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Premium Upgrade Button Title" = "UPGRADE NOW %@%@";
+/* Premium discount Regular price text for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Premium Regular Price Text" = "Regular Price %@%@";
+/* Monthly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Monthly Format" = "/mo";
+/* Yearly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Yearly Format" = "/yr";
+/* Premium SubHeader title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Premium SubHeader Title" = "Protect your Privacy and  Wi-Fi Connections with Premium";
+/* Upgrade monthly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Upgrade Monthly Format" = "/MO";
+/* Upgrade yearly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Upgrade Yearly Format" = "/YR";
+
+/* ------------------------------------------------------------------------------------------------------*/
+/* -------- Functionality/Service/DeepLinks/Handlers/PremiumPlusOfferDeepLinkHandler.swift ------------- */
+/* ----------------------------------------------------------------------------------------------------- */
+/* Alert title for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Alert Title" = "Your offer has expired";
+/* Alert message for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Alert Message" = "We’re sorry, the promotion is no longer valid";
+/* Trial eligible alert message for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Trial Eligible Alert Message" = "You can still try out Identity Protection with our 30-day trial.";
+/* No thanks alert button title for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: No Thanks Button Title" = "No Thanks";
+/* Learn more alert button title for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Learn More Button Title" = "Learn more";
+/* Alert title for products loading failure */
+"PremiumPlusOfferDeepLinkHandler.swift: Product Loading Alert Title" = "We're having trouble loading content";
+/* Alert message for products loading failure */
+"PremiumPlusOfferDeepLinkHandler.swift: Product Loading Alert Message" = "Please make sure you have a working internet connection and try again.";
+/** Alert title for purchase failure */
+"PremiumPlusOfferDeepLinkHandler.swift: Purchase Alert Title" = "Unable to validate your purchase";
+/** Alert title for purchase message */
+"PremiumPlusOfferDeepLinkHandler.swift: Purchase Alert Message" = "Please try again.";
+
+/* -------------------------------------------------------------------------------------------------- */
+/* -------- Functionality/Service/DeepLinks/Handlers/DiscountOfferDeepLinkHandler.swift ------------- */
+/* -------------------------------------------------------------------------------------------------- */
+/* Alert message for DiscountOfferDeepLinkHandler */
+"DiscountOfferDeepLinkHandler.swift: Alert Message" = "We’re sorry, the promotion is invalid";
+
+//* ------------------------------------------------------------------------------------------------------*/
+/* -------- Functionality/Service/DeepLinks/PremiumPlusOfferNotification.swift ------------------------- */
+/* ----------------------------------------------------------------------------------------------------- */
+/* IdMonitor notification message for PremiumPlusOfferNotification */
+"PremiumPlusOfferNotification.swift: IdMonitor Message" = "Check if your email account is being sold or shared on the internet.";
+/* IdInsurance notification message for PremiumPlusOfferNotification */
+"PremiumPlusOfferNotification.swift: IdInsurance Message" = "Learn about what you can use your $1M insurance policy to cover.";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Registration/GDPRComplianceView.swift ---------------- */
+/* ---------------------------------------------------------------- */
+/* Format for constructing text about users agreement to Lookout Terms & Conditions and Privacy Notice.
+   Pattern %@ will be replaced with either "sign up" or "log in" and clickable links "Terms and Conditions" and
+   "Privacy Notice" in runtime. */
+"GDPRComplianceView.swift: Agreement Format" = "By tapping %@, you agree to our %@.\nView our %@.";
+
+/* User-facing name of Terms of Service. */
+"GDPRComplianceView.swift: Terms and Conditions" = "Terms and Conditions";
+
+/* User-facing name of Privacy Notice. */
+"GDPRComplianceView.swift: Privacy Notice" = "Privacy Notice";
+
+/* User-facing name of sign up screen. */
+"GDPRComplianceView.swift: Sign Up" = "sign up";
+
+/* User-facing name of Login screen. */
+"GDPRComplianceView.swift: Log In" = "log in";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Registration/LoginViewController.swift -------------- */
+/* --------------------------------------------------------------- */
+/* Title of the login screen. */
+"LoginViewController.swift: Title" = "Over 100 Million people trust Lookout to protect their devices, identity and finances, and privacy";
+/* Subtitle of the login screen. */
+"LoginViewController.swift: Subtitle" = "Sign up to protect your device and receive security alerts";
+/* Title of login button */
+"LoginViewController.swift: Login Button Title" = "LOG IN";
+/* Notice for new users to sign up */
+"LoginViewController.swift: Signup Notice" = "Don’t have an account?";
+/* Title of signup button */
+"LoginViewController.swift: Signup Button Title" = "Sign up";
+/* Title of password recovery button */
+"LoginViewController.swift: Password Recovery Button Title" = "Forgot your password?";
+/* Subtitle when redeeming an SCL code */
+"LoginViewController.swift: SCL Subtitle" = "Log in to complete redemption";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Registration/RegistrationLocalization.swift ---------- */
+/* ---------------------------------------------------------------- */
+/* Placeholder shown in field for entering user email */
+"RegistrationLocalization.swift: Email Field Placeholder" = "Email";
+/* Placeholder shown in field for entering user password */
+"RegistrationLocalization.swift: Password Field Placeholder" = "Password";
+/* Message for alert shown when user enters invalid email address. */
+"RegistrationLocalization.swift: Invalid Email" = "Your email doesn't look right.\nPlease try again.";
+/* Message for alert shown when user enters invalid password. */
+"RegistrationLocalization.swift: Invalid Password" = "Your password should be at least 6 characters and contain at least 2 character classes (letters, numbers, symbols).";
+/* Button title when SCL code redemption is in progress */
+"RegistrationLocalization.swift: Complete Redemption Button Title" = "COMPLETE REDEMPTION";
+/* Label before SCL code value */
+"RegistrationLocalization.swift: SCL Code Label" = "Code";
+/* Title for the Login/SignUp page when redeeming an SCL code */
+"RegistrationLocalization.swift: SCL Title" = "Lookout Premium";
+
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Registration/RegistrationRoute.swift ----------------- */
+/* ---------------------------------------------------------------- */
+/* Error title for login error due to an error without a specific message. */
+"RegistrationRoute.swift: Generic Error Title" = "Something went wrong";
+/* Error message for login error due to an error without a specific message. */
+"RegistrationRoute.swift: Generic Error Message" = "That was unexpected. Let's give it another try.";
+/* Describes errors returned from registration service. */
+"RegistrationRoute.swift: Registration Error" = "We were unable to create an account. Please try again.";
+/* Error message shown when internet is not reachable and app is not able to omplete registration. */
+"RegistrationRoute.swift: Internet Reachability Error" = "A network connection is needed to register for Lookout. Please try again later.";
+/* A general login error message. */
+"RegistrationRoute.swift: Login Error" = "Login failed. Please try again.";
+/* Login error message due to wrong username or password. */
+"RegistrationRoute.swift: 4001" = "Your email and password did not match.";
+/* Login error message due to maximum no of devices on the account. */
+"RegistrationRoute.swift: 4005" = "You have the maximum number of devices on your account. Please enter a new email address or disable one of your devices at https://www.lookout.com/.";
+/* Error message to be shown for wrong password Combination. */
+"RegistrationRoute.swift: Weak Password Message" = "Your password must be at least 8 characters long and contain at least one letter, one number and one symbol.";
+/* Error message to be shown when maximum login attempts exceeded. */
+"RegistrationRoute.swift: Retry Login" = "Too many failed attempts. Try again in 15 minutes.";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Registration/SignUpViewController.swift -------------- */
+/* ---------------------------------------------------------------- */
+/* Title of the Sign Up screen. */
+"SignUpViewController.swift: Title" = "Over 100 Million people trust Lookout to protect their devices, identity and finances, and privacy";
+/* Subtitle of the Sign Up screen. */
+"SignUpViewController.swift: Subtitle" = "Sign up to protect your device and receive security alerts";
+/* Title of the button starting sign up process. */
+"SignUpViewController.swift: Sign Up Title" = "Sign up";
+/* Notice for already registered user. */
+"SignUpViewController.swift: Have Account Title" = "Already have an account?";
+/* Title of the login button. */
+"SignUpViewController.swift: Login Button Title" = "Login";
+/* Subtitle when redeeming an SCL code */
+"SignUpViewController.swift: SCL Subtitle" = "Register to complete redemption";
+
+/* --------------------------------------------------------------------- */
+/* ------ UI/Registration/Upsell/RegistrationUpsellController.swift ---- */
+/* --------------------------------------------------------------------- */
+/* Title of upsell screen presented after registration. */
+"RegistrationUpsellController.swift: Title" = "Introducing Lookout Safe Browsing";
+/* Content of Upsell screen: 1st paragraph. */
+"RegistrationUpsellController.swift: Content Paragraph 1" = "Safe browsing enables you to securely email, text, and search the internet with confidence.";
+/* Content of Upsell screen: 2nd paragraph. */
+"RegistrationUpsellController.swift: Content Paragraph 2" = "• Automatically block phishing and malware websites to protect your privacy and sensitive data.";
+/* Content of Upsell screen: 3rd paragraph. */
+"RegistrationUpsellController.swift: Content Paragraph 3" = "• Click confidently on links from Facebook, email, text messages, and more.";
+/* Title of the Lean More button shown on upsell screen. */
+"RegistrationUpsellController.swift: Learn More Button Title" = "LEARN MORE";
+
+/* ---------------------------------------------------------------------- */
+/* ------ UI/SecureDNSPromo/SecureDNSPromoViewController.swift ---- */
+/* ---------------------------------------------------------------------- */
+/* Title of secureDNS promotion view */
+"SecureDNSPromoViewController.swift: Introduction Title" = "Introducing Lookout\nPrivacy Guard";
+/* Tile of secureDNS promotion description */
+"SecureDNSPromoViewController.swift: Description Title" = "Privacy Guard enables you to browse the internet with confidence by automatically:";
+/* Description of secureDNS promotion in the first paragraph */
+"SecureDNSPromoViewController.swift: Description Paragraph 1" = "\U2022 Encrypting your website requests so third parties can't monitor your activity.";
+/* Description of secureDNS promotion in the second paragraph */
+"SecureDNSPromoViewController.swift: Description Paragraph 2" = "\U2022 Preventing cybercriminals from blocking legitimate sites or redirecting you to unsafe sites.";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/SCL/SCLFailureViewController.swift ---------------- */
+/* ---------------------------------------------------------------- */
+/* Retry to redeem SCL code. */
+"SCLFailureViewController.swift: Try Again Button" = "TRY AGAIN";
+/* Dismisses the screen without redeeming code. */
+"SCLFailureViewController.swift: Continue Button" = "Continue without code";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/SCL/SCLFetchViewController.swift ---------------- */
+/* ---------------------------------------------------------------- */
+/* Shown when SCL code fetching is in progress. */
+"SCLFetchViewController.swift: Fetch Is In Progress Message" = "Fetching code…";
+/* Shown when SCL code fetching is finished. */
+"SCLFetchViewController.swift: Fetch Is Finished Message" = "Code fetched";
+
+/* ---------------------------------------------------------------- */
+/* ------- UI/SCL/SCLRedemptionResult+Extensions.swift ------------ */
+/* ---------------------------------------------------------------- */
+/* Title of the SCL redemption success screen (in case of infinite Premium). */
+"SCLRedemptionResult+Extensions.swift: Redeemed Title" = "Success! Lookout Premium has been added to your account";
+/* Title format of the SCL redemption success screen. */
+"SCLRedemptionResult+Extensions.swift: Redeemed Title Format" = "Success! %@ of Lookout Premium have been added to your account";
+/* Title of the SCL redemption success screen when account is already Premium. */
+"SCLRedemptionResult+Extensions.swift: Already Premium Title" = "You already have Lookout Premium!";
+/* Subtitle format of the SCL redemption success screen. */
+"SCLRedemptionResult+Extensions.swift: Redeemed Subtitle Format" = "Expiration date: %@";
+/* Subtitle format of the SCL redemption success screen when account is already Premium */
+"SCLRedemptionResult+Extensions.swift: Already Premium Subtitle" = "Please contact support@lookout.com to learn more";
+/* String showing no expiry date for a SCL code with infinite duration */
+"SCLRedemptionResult+Extensions.swift: Infinite expiration date string" = "None";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/SCL/SCLSuccessViewController.swift ---------------- */
+/* ---------------------------------------------------------------- */
+/* Dismisses the screen. */
+"SCLSuccessViewController.swift: Explore Button" = "EXPLORE LOOKOUT PREMIUM";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/Settings/SettingsFooterView.swift ----------------- */
+/* ---------------------------------------------------------------- */
+/* Localized text declaring copyright for the app. */
+"SettingsFooterView.swift: Copyright" = "©2022 Lookout, Inc. All rights reserved.";
+/* Localized template string for the account ID label. */
+"SettingsFooterView.swift: Account ID" = "User ID: %@";
+/* Localized template string for the app version label. */
+"SettingsFooterView.swift: App version" = "Version: %@";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/Settings/SettingsViewController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Title text for the settings screen table; shown in the nav bar. */
+"SettingsViewController.swift: Title" = "Settings";
+/* Title of the button closing settings screen. */
+"SettingsViewController.swift: Done Button" = "Done";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/Settings/SettingsViewController+Sections.swift ---- */
+/* ---------------------------------------------------------------- */
+/* Title text for the Account section of the table. */
+"SettingsViewController+Sections.swift: Account Section Title" = "Your Account";
+/* Title text for the About section of the table. */
+"SettingsViewController+Sections.swift: About Section Title" = "About Lookout";
+/* Title text for the Account section of the table. */
+"SettingsViewController+Sections.swift: Account Setting Name" = "Account";
+/* Title text for the "Rate the app" settings menu item. */
+"SettingsViewController+Sections.swift: About Row Rate" = "Rate the app";
+/* Title text for the "Report" settings menu item. */
+"SettingsViewController+Sections.swift: About Row Report" = "Report";
+/* Title text for the "Support" link in settings menu. */
+"SettingsViewController+Sections.swift: About Row Support" = "Support";
+/* Title text for the legal statements in settings menu. */
+"SettingsViewController+Sections.swift: About Row Legal" = "Legal";
+/* Title text for the privacy notice in settings menu. */
+"SettingsViewController+Sections.swift: About Row Privacy" = "Privacy Notice";
+/* Title text for the terms of service in settings menu. */
+"SettingsViewController+Sections.swift: About Row Terms" = "Terms of Service";
+
+/* ------------------------------------------------------------------------ */
+/* -- UI/Settings/AccountSettings/AccountInformationViewController.swift -- */
+/* ------------------------------------------------------------------------ */
+/* Title of account info screen in settings. */
+"AccountInformationViewController.swift: Title" = "Account";
+/* Title of the back navigation item in settings. */
+"AccountInformationViewController.swift: Back Button" = "Back";
+
+/* -------------------------------------------------------------------------------------------- */
+/* -- UI/Settings/AccountSettings/AccountDeletion/AccountDeletionPreviewViewController.swift -- */
+/* -------------------------------------------------------------------------------------------- */
+/* Title of the button dismissing preview page */
+"AccountDeletionPreviewViewController.swift: Never Mind Button" = "NEVER MIND";
+/* Title of the button opening inapp webview */
+"AccountDeletionPreviewViewController.swift: Continue To Delete Button" = "CONTINUE TO DELETE";
+/* Title of account deletion preview page */
+"AccountDeletionPreviewViewController.swift: Delete Account Title" = "Delete Account";
+/* Instruction of account deletion in website */
+"AccountDeletionPreviewViewController.swift: Delete Account Instruction" = "Please login to the Lookout website in \norder to delete your account";
+
+/* ------------------------------------------------------------------------------------------------ */
+/* -- UI/Settings/AccountSettings/AccountDeletion/ManageSubscriptionsPreviewViewController.swift -- */
+/* ------------------------------------------------------------------------------------------------ */
+/* Title of the preview page for premium user */
+"ManageSubscriptionsPreviewViewController.swift: Title" = "Manage Subscription";
+
+/* -------------------------------------------------------------------------------------------------------- */
+/* -- UI/Settings/AccountSettings/AccountDeletion/ManageSubscriptionsPreviewCancelSubscriptionCell.swift -- */
+/* -------------------------------------------------------------------------------------------------------- */
+/* Title text of cancellation of subscription */
+"ManageSubscriptionsPreviewCancelSubscriptionCell.swift: Cancel Subscription" = "Cancel Subscription";
+/* Description of cancellation of subscription */
+"ManageSubscriptionsPreviewCancelSubscriptionCell.swift: Description of Cancel Subscription" = "Please cancel your subscription at the \noriginal source of purchase.\nFor more details click here";
+/* Substring of Description of cancellation of subscription */
+"ManageSubscriptionsPreviewCancelSubscriptionCell.swift: Click here" = "click here";
+
+/* --------------------------------------------------------------------------------------------------- */
+/* -- UI/Settings/AccountSettings/AccountDeletion/ManageSubscriptionsPreviewDeleteAccountCell.swift -- */
+/* --------------------------------------------------------------------------------------------------- */
+/* Title of account deletion preview page */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Delete Account Title" = "Delete Account";
+/* Instruction of account deletion in website */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Delete Account Instruction" = "Please login to the Lookout website in \norder to delete your account";
+/* Title of the button dismissing preview page */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Never Mind Button" = "NEVER MIND";
+/* Title of the button opening inapp webview */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Continue To Delete Button" = "CONTINUE TO DELETE";
+
+/* ------------------------------------------------------------------------ */
+/* ----- UI/Settings/AccountSettings/AccountPaymentInformation.swift ------ */
+/* ------------------------------------------------------------------------ */
+/* Text to be displayed while payment info is loading */
+"AccountPaymentInformation.swift: Loading" = "Loading...";
+/* Text to be displayed while payment history retrieval is failed */
+"AccountPaymentInformation.swift: Fail Billing History" = "Failed to retrieve billing history.";
+/* Text to be displayed while payment type retrieval is failed */
+"AccountPaymentInformation.swift: Fail Billing Type" = "Failed to retrieve billing type.";
+/* Text to be displayed while payment detail retrieval is failed */
+"AccountPaymentInformation.swift: Fail Billing Detail" = "Failed to retrieve billing details.";
+/* Template for displaying next payment */
+"AccountPaymentInformation.swift: Next Payment Title" = "Next payment:";
+/* Template for displaying payment history */
+"AccountPaymentInformation.swift: Payment History Title" = "Payment history";
+/* Template for displaying payment type: Apple billing */
+"AccountPaymentInformation.swift: Payment Type Title" = "Payment type:";
+/* Template for displaying SCL expiration: SCL */
+"AccountPaymentInformation.swift: Payment Expiration Title" = "Expires on:";
+
+/* ------------------------------------------------------------------------ */
+/* ---- UI/Settings/AccountSettings/AccountSettingsLocalization.swift ----- */
+/* ------------------------------------------------------------------------ */
+/* Title of the section on account settings page that displays the user's id.
+ */
+"AccountSettingsLocalization.swift: Account Id Title" = "EMAIL";
+/* Title of the section on account settings page that displayes the type of
+ user's subscription.
+ */
+"AccountSettingsLocalization.swift: Account Type Title" = "ACCOUNT TYPE";
+/* Title of the section on account settings page that displays user's payment information like
+ billing type and payment history.
+ */
+"AccountSettingsLocalization.swift: Payment Info Title" = "PAYMENT HISTORY";
+/* Title of the section on account settings page where user will be asked to create account */
+"AccountSettingsLocalization.swift: Create Account" = "CREATE AN ACCOUNT";
+/* Title of the section on account settings page where user will be asked to sign in to existing account */
+"AccountSettingsLocalization.swift: Log In Account" = "LOG INTO YOUR ACCOUNT";
+/* Information of Login */
+"AccountSettingsLocalization.swift: Information Login" = "Log in to get personalized support and locate a missing device";
+/* Information of Sign Up */
+"AccountSettingsLocalization.swift: Information Sign Up" = "Sign up to get personalized support and locate a missing device";
+
+/* -------------------------------------------------------------------- */
+/* ------ UI/Settings/AccountSettings/PaymentInfoFormatter.swift ------ */
+/* -------------------------------------------------------------------- */
+/** Status for successful billing */
+"PaymentInfoFormatter.swift: Billing Success Status" = "Successfully billed";
+/** Transaction ID label */
+"PaymentInfoFormatter.swift: Transaction Confirmation" = "transaction confirmation";
+/* Next payment field text when no payments are scheduled. */
+"PaymentInfoFormatter.swift: No Scheduled Payments Label" = "No scheduled payments";
+/** Apple billing payment type */
+"PaymentInfoFormatter.swift: Billing Type App Store" = "App Store";
+/** Complimentary billing payment type */
+"PaymentInfoFormatter.swift: Billing Type Complimentary" = "Complimentary";
+/** SCL billing payment type */
+"PaymentInfoFormatter.swift: Billing Type SCL" = "Premium Code";
+/** "Other" billing payment type */
+"PaymentInfoFormatter.swift: Billing Type Other" = "Other";
+/* "Orange" billing payment type */
+"PaymentInfoFormatter.swift: Billing Type Orange" = "Orange";
+
+/* ----------------------------------------------------------------------- */
+/* -- UI/Settings/AccountSettings/Cells/AccountTypeManagementCell.swift -- */
+/* ----------------------------------------------------------------------- */
+/* Description of the basic subscription plan. */
+"AccountTypeManagementCell.swift: Basic Account Title" = "Lookout Basic";
+/* Description of the premium subscription plan. */
+"AccountTypeManagementCell.swift: Premium Account Title" = "Lookout Premium";
+/* Description of the premium plus subscription plan. */
+"AccountTypeManagementCell.swift: Premium Plus Account Title" = "Lookout Premium Plus";
+/* Title of account deletion button. */
+"AccountTypeManagementCell.swift: Delete account" = "Delete account";
+/* Title of manage subscription button. */
+"AccountTypeManagementCell.swift: Manage subscription" = "Manage subscription";
+
+/* -------------------------------------------------------------------------- */
+/* -------- UI/Settings/AccountSettings/Cells/PaymentInfoCell.swift --------- */
+/* -------------------------------------------------------------------------- */
+/** Status for next payment */
+"PaymentInfoCell.swift: Next Payment Title" = "Next payment:";
+/** Header text before billing info */
+"PaymentInfoCell.swift: Payment History Title" = "Payment History";
+/** Template for displaying payment type: Apple billing */
+"PaymentInfoCell.swift: Payment Type Title" = "Payment type:";
+/* Description of "Next Payment" when billed through orange carrier */
+"PaymentInfoCell.swift: Next Payment Orange" = "Billed by service provider";
+
+/* ---------------------------------------------------------------- */
+/* --------- UI/Upsell/Configuration/UpsellFeature.swift ---------- */
+/* ---------------------------------------------------------------- */
+/* Device Security feature name */
+"UpsellFeature.swift: DeviceSecurity Feature Name" = "Device security";
+/* Locate tools feature name */
+"UpsellFeature.swift: LocateTools Feature Name" = "Locate tools";
+/* Breach Report feature name */
+"UpsellFeature.swift: BreachReport Feature Name" = "Breach Report";
+/* Safe WiFi feature name */
+"UpsellFeature.swift: SafeWiFi Feature Name" = "Safe WiFi";
+/* Safe Browsing feature name */
+"UpsellFeature.swift: SafeBrowsing Feature Name" = "Safe Browsing";
+/* Theft Alerts feature name */
+"UpsellFeature.swift: TheftAlerts Feature Name" = "Theft Alerts";
+/* Cyber Watch feature name */
+"UpsellFeature.swift: CyberWatch Feature Name" = "Cyber Watch";
+/* 24/7 Restoration Assistance feature name */
+"UpsellFeature.swift: RestorationAssistance Feature Name" = "24/7 Restoration Assistance";
+/* $1M Identity Theft Insurance feature name */
+"UpsellFeature.swift: IdentityTheftInsurance Feature Name" = "$1M Identity Theft Insurance";
+/* Social Media Watch feature name */
+"UpsellFeature.swift: SocialMediaWatch Feature Name" = "Social Media Watch";
+/* Social Security Number Watch feature name */
+"UpsellFeature.swift: SocialSecurityNumberWatch Feature Name" = "Social Security Number Watch";
+/* Lost Wallet Recovery feature name */
+"UpsellFeature.swift: LostWalletRecovery Feature Name" = "Lost Wallet Recovery";
+
+/* ---------------------------------------------------------------- */
+/* ----------- UI/Upsell/Configuration/UpsellPlan.swift ----------- */
+/* ---------------------------------------------------------------- */
+/* Basic upsell plan name */
+"UpsellPlan.swift: Basic Plan Name" = "Basic";
+/* Premium upsell plan name */
+"UpsellPlan.swift: Premium Plan Name" = "Premium";
+/* Premium Plus upsell plan name */
+"UpsellPlan.swift: PremiumPlus Plan Name" = "Premium Plus";
+/* Price for basic plan type */
+"UpsellPlan.swift: Basic Plan Price" = "Free";
+/* Price for free trial  */
+"UpsellPlan.swift: Free Trial" = "Free Trial";
+
+/* ---------------------------------------------------------------- */
+/* ------- UI/Upsell/ExtendedPlanDescriptionController.swift ------ */
+/* ---------------------------------------------------------------- */
+/* Header before list of features for Premium Plan. */
+"ExtendedPlanDescriptionController.swift: Premium Plan Extended Features List Header" = "Get all features from our Basic package, plus advanced security protection:";
+/* Header before list of features for Premium Plus Plan. */
+"ExtendedPlanDescriptionController.swift: PremiumPlus Plan Extended Features List Header" = "Get all features from our Basic and Premium package, plus additional identity protection:";
+
+/* BreachReport description */
+"ExtendedPlanDescriptionController.swift: BreachReport Extended Description" = "Be alerted anytime a service or app you use is breached.";
+/* Breach Report notice */
+"ExtendedPlanDescriptionController.swift: BreachReport Notice" = "Breach Report is available in English only.";
+/* Safe WiFi description */
+"ExtendedPlanDescriptionController.swift: SafeWiFi Extended Description" = "Protect your device from unsafe Wi-Fi networks.\n• Receive alerts when you join a Wi-Fi network that has been compromised\n• Step-by-step instruction on how to disconnect from any unsafe Wi-Fi";
+/* Safe Browsing description */
+"ExtendedPlanDescriptionController.swift: SafeBrowsing Extended Description" = "Be alerted if you go to malicious sites, including:\nPages that steal your personal information\nPages that steal your payment information\nPages that trick you into downloading malware";
+/* Theft Alerts description */
+"ExtendedPlanDescriptionController.swift: TheftAlerts Extended Description" = "Get email alerts when it looks like your device is stolen. Control when you get alerted.\n• SIM card removed\n• Airplane Mode enabled";
+/* Identity Theft Insurance description */
+"ExtendedPlanDescriptionController.swift: IdentityTheftInsurance Extended Description" = "The fees associated with restoring your identity can add up quickly, from legal support to loss of income and document replacement. Identity restoration insurance covers up to $1M in damages with $0 deductible.";
+/* IdentityTheftInsurance notice format */
+"ExtendedPlanDescriptionController.swift: IdentityTheftInsurance Notice Format" = "* Insurance coverage is provided by a third-party and is subject to the terms, conditions, and exclusions of the insurance policy available at %@. Lookout is not a licensed insurer or insurance agent.";
+/* Replacement for %@ in template above */
+"ExtendedPlanDescriptionController.swift: IdentityTheftInsurance Legal Link" = "www.lookout.com/legal";
+/* Restoration Assistance description */
+"ExtendedPlanDescriptionController.swift: RestorationAssistance Extended Description" = "Certified Identity Restoration Experts are available 24/7 to answer any questions you may have.\n\nIn the event of identity theft, an expert will be assigned to your case and assist with the time- consuming process of restoring your identity.";
+/* Cyber Watch description */
+"ExtendedPlanDescriptionController.swift: CyberWatch Extended Description" = "Lookout scans the internet for any personal information you choose to monitor. You’ll get alerted via email and on your device if your information is found being used fraudulently.\n\nIf your information does get stolen, identity protection experts are ready to assist you through the restoration process and answer any questions you may have.\n\nInformation you can choose to monitor includes:\n\n• Social Security number\n• Bank account numbers\n• Credit & debit card numbers\n• Driver’s license\n• Email addresses\n• Passport\n• Phone numbers\n• Medical insurance numbers";
+/* Social Media Watch description */
+"ExtendedPlanDescriptionController.swift: SocialMediaWatch Extended Description" = "Lookout scans your social media accounts and alerts you if any personal information that could be used by criminals (like your date of birth or hometown) is exposed.\n\nAdditionally, get alerted if you've been tagged in any potentially offensive posts that include profanity, sexual content, or drug and alcohol references that could damage your reputation.";
+/* Social Security Number Watch description */
+"ExtendedPlanDescriptionController.swift: SocialSecurityNumberWatch Extended Description" = "Get a history of all names, addresses, and other records associated with Social Security number and real-time notifications of any changes.";
+/* Lost Wallet Recovery description */
+"ExtendedPlanDescriptionController.swift: LostWalletRecovery Extended Description" = "If your wallet is lost or stolen, our certified restoration experts will work quickly to cancel and re-order wallet contents - no setup required.\n\nLookout will contact document issuers and complete required forms by intiating fraud affidavit and police reports on your behalf.";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Upsell/PlanComparisonViewController.swift ---------- */
+/* ---------------------------------------------------------------- */
+/* Title for button that navigates to the next page in the carousel. */
+"PlanComparisonViewController.swift: Upgrade Button" = "UPGRADE";
+
+/* ---------------------------------------------------------------- */
+/* ---------- UI/Upsell/PlanDescriptionController.swift ----------- */
+/* ---------------------------------------------------------------- */
+/* Header before features list for Premium Plan */
+"PlanDescriptionController.swift: Premium Plan Features List Header" = "Basic App Security and Locate, plus:";
+/* Header before features list for Premium Plus Plan */
+"PlanDescriptionController.swift: PremiumPlus Plan Features List Header" = "Basic and Premium features, plus:";
+/* Title for button that navigates to extended plan description screen. */
+"PlanDescriptionController.swift: Learn More Button Title" = "Learn More";
+
+/* Breach Report feature description */
+"PlanDescriptionController.swift: BreachReport Short Description" = "Get alerted when a company or service you use is breached";
+/* Breach Report feature notice */
+"PlanDescriptionController.swift: BreachReport Short Description Notice" = "(Breach Report is currently available in English only)";
+/* Safe WiFi feature description */
+"PlanDescriptionController.swift: SafeWiFi Short Description" = "Be alerted when a Wi-Fi network you join is dangerous or under attack";
+/* Safe Browsing feature description */
+"PlanDescriptionController.swift: SafeBrowsing Short Description" = "Be alerted if you go to malicious websites";
+/* Theft Alerts feature description */
+"PlanDescriptionController.swift: TheftAlerts Short Description" = "Get alerts if suspicious theft-like activity is detected on your device.";
+/* Cyber Watch feature description */
+"PlanDescriptionController.swift: CyberWatch Short Description" = "Ensure your identity isn’t being used fraudulently across the Internet";
+/* Restoration Assistance feature description */
+"PlanDescriptionController.swift: RestorationAssistance Short Description" = "Our experts will work 24/7 to replace lost or stolen cards and restore your identity";
+/* Identity Theft Insurance feature description */
+"PlanDescriptionController.swift: IdentityTheftInsurance Short Description" = "For legal fees, lost wages and other expenses associated with recovering your stolen identity.";
+
+/* ---------------------------------------------------------------- */
+/* ----------- UI/Upsell/ProductDescription+UI.swift -------------- */
+/* ---------------------------------------------------------------- */
+/* Button title for monthly price. */
+"ProductDescription+UI.swift: Monthly Product Button Title Format" = "MONTHLY: %@";
+/* Button title for total charges for yearly subscription. */
+"ProductDescription+UI.swift: Yearly Product Button Title Format" = "YEARLY: %@";
+/* Button subtitle for monthly price for yearly subscriptions. */
+"ProductDescription+UI.swift: Monthly Price Subtitle Format" = "%@/month";
+/* Button subtitle for monthly price after trial period. */
+"ProductDescription+UI.swift: Monthly Price After Trial Subtitle Format" = "%@/mo after";
+/* Button subtitle for Yearly price after trial period. */
+"ProductDescription+UI.swift: Yearly Price After Trial Subtitle Format" = "%@/yr after";
+/* Button title for monthly Free Trial price */
+"ProductDescription+UI.swift: Free Trial" = "FREE TRIAL";
+/* Button title for monthly Free Trial Days */
+"ProductDescription+UI.swift: Free Trial Days" = "%@ DAYS FREE";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Upsell/TermsAndConditionsViewController.swift -------- */
+/* ---------------------------------------------------------------- */
+/* Screen title. */
+"TermsAndConditionsViewController.swift: Screen Title" = "Auto-Renew Policy";
+/* Title of the back navigation item in terms and conditions. */
+"TermsAndConditionsViewController.swift: Back Button" = "Back";
+/* Terms Of Service body (second paragraph) format */
+"TermsAndConditionsViewController.swift: Terms Of Service Body Format" = "Please note that by subscribing to Lookout Premium or Premium Plus, you agreed and consented to us automatically charging you on a subscription basis for the monthly, annual or other subscription term you selected. You understand and agree that your subscription is auto-recurring and will automatically renew unless auto-renew is turned off (as described below) at least twenty-four hours before the end of the current subscription term. Please note that we reserve the right to change the cost of your subscription effective on automatic renewal of your subscription, and we will notify you of any changes to the cost of your subscription before your subscription renews. When your subscription renews, your account will automatically be charged the then-applicable subscription price, and you hereby authorize us to charge the payment method on your account. Subscriptions may be managed and auto-renewal may be turned off by going to the Account Settings screen in the App Store app on your device after purchase. You may cancel your subscription during a subscription term, however there will be no refunds or credits for partial subscription terms (US only). You agree to receive all communications electronically.";
+
+/* ---------------------------------------------------------------- */
+/* ------------------ UI/Upsell/UpsellRoute.swift ----------------- */
+/* ---------------------------------------------------------------- */
+/* Alert title for products loading failure */
+"UpsellRoute.swift: Product Loading Alert Title" = "We're having trouble loading content";
+/* Alert message for products loading failure */
+"UpsellRoute.swift: Product Loading Alert Message" = "Please make sure you have a working internet connection and try again.";
+/** Alert title for purchase failure */
+"UpsellRoute.swift: Purchase Alert Title" = "Unable to validate your purchase";
+/** Alert title for purchase message */
+"UpsellRoute.swift: Purchase Alert Message" = "Please try again.";
+
+/* ---------------------------------------------------------------- */
+/* ------------- UI/Upsell/UpsellViewController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Upsell carousel screen title. */
+"UpsellViewController.swift: Screen Title" = "Get More Protection";
+/* Done button dismisses the screen. */
+"UpsellViewController.swift: Done Button Title" = "Done";
+/*Upsell Auto Renewal Statement format*/
+"UpsellViewController.swift: Auto Renewal Statement" = "By clicking on the below buttons, you agree to our %1$@. View our %2$@ and %3$@.";
+/* Replacement for %1$@ in template from above */
+"UpsellViewController.swift: Auto-Renew Policy" = "Auto-Renew Policy";
+/* Replacement for %2$@ in template from above */
+"UpsellViewController.swift: Terms and Conditions" = "Terms and Conditions";
+/* Replacement for %3$@ in template from above */
+"UpsellViewController.swift: Privacy Notice" = "Privacy Notice";
+/*
+ Message format for non recoverable error returned from Cashier during
+ receipt validation.
+ */
+"DefaultAppStoreReceiptValidator: Non Recoverable Error Message" = "Received %@ HTTP status";
+
+/* ----------------------------------------------------------------------- */
+/* Extensions/IDScanFeatureUpsell+Personal.swift */
+/* ----------------------------------------------------------------------- */
+/* Breach Report feature name upsold in ID Scan feature. */
+"IDScanFeatureUpsell+Personal.swift: Breach Report Name" = "Breach Report";
+/* Upsell description for Breach Report */
+"IDScanFeatureUpsell+Personal.swift: Breach Report Description" = "Monitor services that you registered with this email account and get alerts if they get breached with Breach Report.";
+/* ID Pro feature name upsold in ID Scan feature. */
+"IDScanFeatureUpsell+Personal.swift: ID Pro Name" = "ID Protection";
+/* Upsell description for ID Pro */
+"IDScanFeatureUpsell+Personal.swift: ID Pro Description" = "Get alerted when your email address is found being sold online with Identity Protection.";
+
+/* ----------------------------------------------------------------------- */
+/* LKOAppCore/UI/Controls/Extensions/UIViewController+BackButtonItem.swift */
+/* ----------------------------------------------------------------------- */
+/* Navigation back button title. */
+"UIViewController+BackButtonItem.swift: Title" = "Back";
+
+
+/* --------------------------------------------------------------------------- */
+/* LKOSafeBrowsingFeature/Functionality/SafeBrowsing/SafeBrowsingFeature.swift */
+/* --------------------------------------------------------------------------- */
+/* Safe Browsing setup description details label text */
+"SafeBrowsingSetupViewController.swift: Details Label" = "How to setup your protection: \n \nAllow Lookout to create a secure VPN connection to analyze traffic. \n \nLookout uses a VPN to analyze traffic on your device for threats. We are committed to keeping your personal information confidential and we don’t store your traffic history.";
+/* Status message for safe browsing when the feature is attempting to reconnect */
+"SafeBrowsingFeature.swift: Another Already Connected" = "Paused";
+
+/* ------------------------------------------------------------------------------------------ */
+/* ------- Functionality/Service/DeepLinks/Handlers/InAppPurchaseRoute.swift ------- */
+/* ------------------------------------------------------------------------------------------ */
+/* Alert title for products loading failure */
+"InAppPurchaseRoute.swift: Product Loading Alert Title" = "We’re having trouble loading content";
+/* Alert message for products loading failure */
+"InAppPurchaseRoute.swift: Product Loading Alert Message" = "Please make sure you have a working internet connection and try again.";
+/* Alert title for purchase failure */
+"InAppPurchaseRoute.swift: Purchase Alert Title" = "Unable to validate your purchase";
+/* Alert message for purchase failure */
+"InAppPurchaseRoute.swift: Purchase Alert Message" = "Please try again.";
+
+/* -------------------------------------------------------------------------------------------------------------- */
+/* --- UI/IdentityMonitoring/PersonalInformation/SocialSecurityNumber/SSNInformationEntryHostController.swift --- */
+/* -------------------------------------------------------------------------------------------------------------- */
+/* SSN screen sub heading */
+"SSNInformationEntryHostController.swift: Screen subDescription" = "You don’t need to provide your SSN for other ID Monitor services to work.";
+
+/* ------------------------------------------------------------------------------------------ */
+/* ------- Functionality/Application/PersonalLaunchManager.swift ------- */
+/* ------------------------------------------------------------------------------------------ */
+/* Alert text for device deactivation */
+"PersonalLaunchManager.swift: device deactivated" = "Looks like something went wrong! Please log back in.";
+"PersonalLaunchManager.swift: alert ok button" = "Ok";
+
+/* ---------------------------------------------------------------- */
+/* ---------- UI/Upsell/ContextualUpsellViewController.swift ----------- */
+/* ---------------------------------------------------------------- */
+/* Title text for the header Contextual view without wifi name */
+"ContextualUpsellViewController.swift: Title Without Wifi Name" = "The Wi-Fi network you're on is unprotected";
+/* Title text for the header Contextual view with Wifi name */
+"ContextualUpsellViewController.swift: Title With Wifi Name" = "%@ Wi-Fi is unprotected";
+/* Description text for the Contextual view */
+"ContextualUpsellViewController.swift: Screen Description" = "Unprotected Wi-Fi network can be used by 3rd parties to intercept your private data. We prevent this from happening so you can go about your normal life.";
+/* Title text for Auto Renewal Statement format*/
+"ContextualUpsellViewController.swift: Auto Renewal Statement" = "By clicking on the above button, you agree to our %1$@. View our %2$@ and %3$@.";
+/* Title text for Auto-Renew Policy link */
+"ContextualUpsellViewController.swift: Auto-Renew Policy" = "Auto-Renew Policy";
+/* Title text for Terms and Conditions link */
+"ContextualUpsellViewController.swift: Terms and Conditions" = "Terms and Conditions";
+/* Title text for Privacy Policy link */
+"ContextualUpsellViewController.swift: Privacy Notice" = "Privacy Notice";
+/* Title text for Upgrade label */
+"ContextualUpsellViewController.swift: Upgrade title" = "Upgrade to protect your data";
+/* Title text for Premium button to show the format depends on payment plan */
+"ContextualUpsellViewController.swift: Premium Button Title" = "Get Premium %@ %@ %@";
+/* Title text for Premium button to show 'Off' text*/
+"ContextualUpsellViewController.swift: Off Format" = "Off";
+/* Subtitle text for Premium button to show 'After' text*/
+"ContextualUpsellViewController.swift: After Format" = "after";
+/* Subtitle text format for Premium button to show trial price amount*/
+"ContextualUpsellViewController.swift: Then Format" = "then %@%@ %@";
+/* Title text for Premium button to show yearly format */
+"ContextualUpsellViewController.swift: Yearly Format" = "/year";
+/* Subtitle text for Premium button to show monthly format */
+"ContextualUpsellViewController.swift: Monthly Format" = "/mo";
+/* Title text for premium button to show trial days */
+"ContextualUpsellViewController.swift: Days Free Format" = "days free";
+/* Subtitle text for premium button to show yearly price amount */
+"ContextualUpsellViewController.swift: Premium Button Price Subtitle" = "Pay %@%@ %@";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Contextual/ContextualUpsellRoute.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Alert title for products loading failure */
+"ContextualUpsellRoute.swift: Product Loading Alert Title" = "We're having trouble loading content";
+/* Alert message for products loading failure */
+"ContextualUpsellRoute.swift: Product Loading Alert Message" = "Please make sure you have a working internet connection and try again.";
+/* Alert title for purchase failure */
+"ContextualUpsellRoute.swift: Purchase Alert Title" = "Unable to validate your purchase";
+/* Alert title for purchase message */
+"ContextualUpsellRoute.swift: Purchase Alert Message" = "Please try again.";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/FeatureEducation/FeatureEducation.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Header Title text for Feature education screen */
+"FeatureEducation.swift: Header Title" = "Here are the kind of digital threats you may encounter";
+/* Title text for device threat container */
+"FeatureEducation.swift: deviceThreat feature Name" = "Device threats";
+/* Title text for network threat container */
+"FeatureEducation.swift: networkThreat feature Name" = "Network threats";
+/* Title text for identity theft container */
+"FeatureEducation.swift: identityTheft feature Name" = "Identity threats";
+/* Description text for device threat container */
+"FeatureEducation.swift: deviceThreat Description" = "These can be vulnerabilities in your operating system, malware, or even a lost or stolen device. \n\nBeing exposed to these can leave you vulnerable to a slow device, stolen personal info, and bad experiences.";
+/* Description text for network threat container */
+"FeatureEducation.swift: networkThreat Description" = "These can be hackers stealing data over wi-fi networks, or dangerous links in websites or text messages. \n\nFalling victim to these can lead to stolen personal data that you want kept private, such as financial details and addresses.";
+/* Description text for identity theft container */
+"FeatureEducation.swift: identityTheft Description" = "These could be data breaches from companies you use that leak your private or finanacial information. \n\nIncidents like this can lead to your data being used fraudulently without your knowledge, and a headache to solve.";
+/* Button text for device threat container */
+"FeatureEducation.swift: Device protection Button title" = "Explore Device protection";
+/* Button text for network threat container */
+"FeatureEducation.swift: Network protection Button title" = "Explore Network protection";
+/* Button text for identity theft container */
+"FeatureEducation.swift: Identity protection Button title" = "Explore Identity protection";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Onboarding/OnboardingViewController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Header title text for Onboarding screen */
+"OnboardingViewController.swift: Protect Device" = "Protect your device, network, and identity with Lookout";
+/* Button text to intiate Anonymous Registration  */
+"OnboardingViewController.swift: Start Protection" = "Start protection";
+/* Educate user about login flow  */
+"OnboardingViewController.swift: Already Account" = "Already have an account?";
+/* Button text for login flow */
+"OnboardingViewController.swift: Login" = "Log in";
+/* Agreement format for Terms & Condition and Privacy Notice */
+"OnboardingViewController.swift: Agreement Format" = "By tapping Start Protection you agree to our %@ and %@";
+/* User-facing name of Terms of Service. */
+"OnboardingViewController.swift: Terms and Conditions" = "Terms of Service";
+/* User-facing name of Privacy Notice. */
+"OnboardingViewController.swift: Privacy Notice" = "Privacy Notice";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Onboarding/OnboardingRoute.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Error title for login error due to an error without a specific message. */
+"OnboardingRoute.swift: Generic Error Title" = "Something went wrong";
+/* Error message for login error due to an error without a specific message. */
+"OnboardingRoute.swift: Generic Error Message" = "That was unexpected. Let's give it another try.";
+/* Error message shown when internet is not reachable and app is not able to complete registration. */
+"OnboardingRoute.swift: Internet Reachability Error" = "A network connection is needed to register for Lookout. Please try again later.";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Authentication/SignInViewController.swift ---------- */
+/* ---------------------------------------------------------------- */
+/* Placeholder shown in field for entering user email */
+"SignInViewController.swift: Email Field Placeholder" = "Email Address";
+/* Placeholder shown in field for entering user password */
+"SignInViewController.swift: Password Field Placeholder" = "Password";
+/* Notice for new users to sign up */
+"SignInViewController.swift: Signup Notice" = "Don’t have an account?";
+/* Title of signup button */
+"SignInViewController.swift: Signup Button Title" = "Sign up";
+/* Title of login button */
+"SignInViewController.swift: Login Button Title" = "LOGIN";
+/* Title of password recovery button */
+"SignInViewController.swift: Password Recovery Button Title" = "Forgot your password?";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Authentication/RegistrationViewController.swift ---------- */
+/* ---------------------------------------------------------------- */
+/* Placeholder shown in field for entering user email */
+"RegistrationViewController.swift: Email Field Placeholder" = "Email Addess";
+/* Placeholder shown in field for entering user password */
+"RegistrationViewController.swift: Password Field Placeholder" = "Password";
+/* Notice for existing users for Login */
+"RegistrationViewController.swift: Login Notice" = "Already have an account?";
+/* Title of log in button */
+"RegistrationViewController.swift: Login Button Title" = "Log in";
+/* Title of sign up button */
+"RegistrationViewController.swift: Signup Button Title" = "CREATE ACCOUNT";
+/* Password Requirement new users */
+"RegistrationViewController.swift: Password Requirement" = "Your password should be at least 6 characters and contain at least 2 character classes (letters, numbers, symbols).";
+/* Error title for existing user */
+"RegistrationViewController.swift: Existing Email Error Title" = "That email is already in use!";
+/* Error sub-title for existing user */
+"RegistrationViewController.swift: Existing Email Error Subtitle" = "It looks like that email is already being used. Please log in to your account.";
+
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/SCL/PartnerWelcomeDialog.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Explore button title for Allstate partner welcome dialog */
+"AllstatePartnerWelcomeDialog.swift: Sounds Good Button" = "SOUNDS GOOD";
+/* Description text for Allstate partner welcome dialog */
+"AllstatePartnerWelcomeDialog.swift: Description Title" = "Welcome to the Lookout mobile app, included in your Allstate Identity Protection plan";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Authentication/Functionality/AuthenticationPresenter.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Describes errors returned from registration service. */
+"DefaultAuthenticationPresenter.swift: Registration Error" = "We were unable to create an account. Please try again.";
+/* Error message shown when internet is not reachable and app is not able to omplete registration. */
+"DefaultAuthenticationPresenter.swift: Internet Reachability Error" = "A network connection is needed to register for Lookout. Please try again later.";
+/* A general login error message. */
+"DefaultAuthenticationPresenter.swift: Login Error" = "Login failed. Please try again.";
+/* Error title for login error due to an error without a specific message. */
+"DefaultAuthenticationPresenter.swift: Generic Error Title" = "Something went wrong";
+/* Error message for login error due to an error without a specific message. */
+"DefaultAuthenticationPresenter.swift: Generic Error Message" = "That was unexpected. Let's give it another try.";
+/* Login error message due to wrong username or password. */
+"DefaultAuthenticationPresenter.swift: 4001" = "Your email and password did not match.";
+/* Login error message due to maximum no of devices on the account. */
+"DefaultAuthenticationPresenter.swift: 4005" = "You have the maximum number of devices on your account. Please enter a new email address or disable one of your devices at https://www.lookout.com/.";
+
+/* ---------------------------------------------------------------- */
+/* ------------- UI/Upsell/UpsellAuthenticationController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation */
+"UpsellAuthenticationController.swift: Account Creation" = "Create an account to purchase";
+/* Screen Title for login into existing account */
+"UpsellAuthenticationController.swift: Login Account" = "Login to purchase";
+/* Upgrade button title in Authentication screens */
+"UpsellAuthenticationController.swift: Upgrade Button" = "Upgrade for %@/%@";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/HeaderEnrichment/HESuccessViewController.swift ----- */
+/* ---------------------------------------------------------------- */
+/* Title text for header enrichment success controller */
+"HESuccessViewController.swift: Title Label" = "Great news!";
+/* Subtitle text format for header enrichment success controller */
+"HESuccessViewController.swift: Subtitle Label" = "You have %1$@ through %2$@! Activate your benefits now.";
+/* Activate button title for header enrichment success controller */
+"HESuccessViewController.swift: Activate Button" = "ACTIVATE BENEFITS";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/HeaderEnrichment/HEAuthenticationController.swift -- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation  */
+"HEAuthenticationController.swift: Account Creation" = "Create an account to activate benefits";
+/* Screen Title for login into existing account  */
+"HEAuthenticationController.swift: Login Account" = "Login to activate benefits";
+/* Upgrade button title in Authentication screens  */
+"HEAuthenticationController.swift: Upgrade Button" = "Upgrade for Lookout Premium";
+
+/* ---------------------------------------------------------------------------- */
+/* ------- UI/LocateAuthentication/LocateAuthenticationController.swift ------- */
+/* ---------------------------------------------------------------------------- */
+/* Screen Title for Account Creation */
+"LocateAuthenticationController.swift: Account Creation" = "Create an account to locate your device from Lookout.com";
+/* Screen Title for login into existing account */
+"LocateAuthenticationController.swift: Login Account" = "Login to your account to locate your device from Lookout.com";
+/* Login button title in Authentication screens  */
+"LocateAuthenticationController.swift: Login Button" = "LOG IN";
+/* Signup button title in Authentication screens  */
+"LocateAuthenticationController.swift: Signup Button" = "CREATE ACCOUNT";
+
+/* ---------------------------------------------------------------- */
+/* ------------- UI/Dashboard/Feature/TheftAlerts/TheftAlertsUpsellAuthenticationController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation  */
+"TheftAlertsUpsellAuthenticationController.swift: Account Creation" = "Create an account to test Theft Alerts";
+/* Screen Title for login into existing account  */
+"TheftAlertsUpsellAuthenticationController.swift: Login Account" = "Login to test Theft Alerts";
+
+/* ---------------------------------------------------------------- */
+/* ------------- UI/Authentication/SCLAuthenticationViewController.swift -- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation  */
+"SCLAuthenticationViewController.swift: Account Creation" = "Premium code %@ successfully captured. Sign up now to activate Lookout Premium";
+/* Screen Title for login into existing account  */
+"SCLAuthenticationViewController.swift: Login Account" = "Premium code %@ successfully captured. Log in now to activate Lookout Premium";
+/* Title for login button */
+"SCLAuthenticationViewController.swift: Login button" = "Activate Lookout Premium";
+/* Title for Signup button */
+"SCLAuthenticationViewController.swift: Signup button" = "Activate Lookout Premium";
+
+/* ---------------------------------------------------------------- */
+/* ----- UI/Upsell/OnboardingInformation/OnboardingInformationViewController.swift -- */
+/* ---------------------------------------------------------------- */
+/* Welcome header for premium user */
+"OnboardingInformationViewController.swift: Premium Welcome" = "Welcome to Lookout Premium";
+/* Welcome header for premium plus users */
+"OnboardingInformationViewController.swift: Premium Plus Welcome" = "Welcome to Lookout Premium Plus";
+/* User-facing name for premium account type. */
+"OnboardingInformationViewController.swift: Premium" = "Premium";
+/* User-facing name for premium plus account type. */
+"OnboardingInformationViewController.swift: Premium Plus" = "Premium Plus";
+/* Subtitle to be displayed on screen */
+"OnboardingInformationViewController.swift: Information Text" = "It looks like you already have access to Lookout %@! Let’s get you setup.";
+/* Button title for dismissing screen */
+"OnboardingInformationViewController.swift: Start button" = "Let’s start";
+
+/* ------------------------------------------------------------------ */
+/* ------- UI/Notifications/NotificationsViewController.swift ------- */
+/* ------------------------------------------------------------------ */
+/* Title text for the notification center screen */
+"NotificationsViewController.swift: Title" = "Notification Center";
+/* Title for the notifications table header; shown when there are features to be enabled.  */
+"NotificationsViewController.swift: Table Header Title" = "Protections left to enable";
+
+/* ---------------------------------------------------------------------- */
+/* ------- UI/Notifications/NCNotificationPermissionFeature.swift ------- */
+/* ---------------------------------------------------------------------- */
+/* Title for notification permission */
+"NCNotificationPermissionFeature.swift: Title" = "Notification Permission";
+/* Description text for notification permission */
+"NCNotificationPermissionFeature.swift: Description" = "Allow Lookout to send you important updates that enable us to safeguard your privacy, identity and security at all times";
+
+/* -------------------------------------------------------------- */
+/* ------- UI/Notifications/NCLocateMyDeviceFeature.swift ------- */
+/* -------------------------------------------------------------- */
+/* Title for Locate My Device feature */
+"NCLocateMyDeviceFeature.swift: Title" = "Locate My Device";
+/* Description text for Locate My Device feature */
+"NCLocateMyDeviceFeature.swift: Description" = "Manage a lost device by pinpointing its exact location, sounding an alarm or displaying custom messages on your device";
+
+/* ------------------------------------------------------------ */
+/* ------- UI/Notifications/NCSafeBrowsingFeature.swift ------- */
+/* ------------------------------------------------------------ */
+/* Description text for safe browsing */
+"NCSafeBrowsingFeature.swift: Description" = "Confidently browse the web and block websites that might steal your personal information or deliver malware to your device";
+
+/* ----------------------------------------------------- */
+/* ------- UI/Notifications/NCIDProFeature.swift ------- */
+/* ----------------------------------------------------- */
+/* Description text for ID Protection */
+"NCIDProFeature.swift: Description" = "Monitor your data and be notified if it is on the Dark Web in order to protect your identity";
+
+/* ------------------------------------------------------------ */
+/* ------- UI/Notifications/NCBreachReportFeature.swift ------- */
+/* ------------------------------------------------------------ */
+/* Description text for Breach Report */
+"NCBreachReportFeature.swift: Description" = "Get notified whenever a company or service you use has been breached in order to protect yourself";
+
+/* ---------------------------------------------------------- */
+/* ------- UI/Notifications/NCTheftAlertFeature.swift ------- */
+/* ---------------------------------------------------------- */
+/* Description text for Theft Alert feature */
+"NCTheftAlertFeature.swift: Description" = "Prevent unauthorized use and protect personal information by receiving updates for suspicious activity on your device";
+
+/* ------------------------------------------------------- */
+/* ------- UI/Notifications/NotificationCell.swift ------- */
+/* ------------------------------------------------------- */
+/* Text to be appended to feature descriptions */
+"NotificationCell.swift: Add On Description" = "\n\nLess than 1 min to set up";
+
+/* --------------------------------------------------------------- */
+/* ------- UI/SecureDNS/SecureDNSSetupViewController.swift ------- */
+/* --------------------------------------------------------------- */
+/* Text to be displayed over image on Secure DNS setup screen */
+"SecureDNSSetupViewController.swift: Summary Header Label" = "Hide online footprint\nwith Privacy Guard";
+/* Text for Secure DNS summary header label */
+"SecureDNSSetupViewController.swift: Summary Detail Label" = "Protect your device and prevent hackers from tracking your activity.";
+/* Heading to be displayed on top of Secure DNS Setup Instructions screen */
+"SecureDNSSetupViewController.swift: Instructions Heading" = "Setup Privacy Guard";
+/* Title for Secure DNS setup button */
+"SecureDNSSetupViewController.swift: Enable Button" = "ENABLE PRIVACY GUARD";
+/* Text for step 1 in order to setup Secure DNS */
+"SecureDNSSetupViewController.swift: Step 1 Detail Text" = "Go to \"Settings -> General\" and \"VPN & Network\" or \"VPN & Device Management\"";
+
+/* --------------------------------------------------------------- */
+/* ------- UI/SecureDNS/PersonalSecureDNSSetupHandler.swift ------ */
+/* --------------------------------------------------------------- */
+/* Alert title for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Title" = "Update to the latest OS";
+/* Alert message for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Message" = "Please update to the latest OS version in order to setup the Privacy Guard feature properly";
+/* Alert cancel button title for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Cancel Button Title" = "Cancel";
+/* Alert yes button title for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Yes Button Title" = "Update";
+
+/* ------------------------------------------------------------------------ */
+/* ------- UI/SecureDNS/SecureDNSUpsellAndSetupViewController.swift ------- */
+/* ------------------------------------------------------------------------ */
+/* Title for the Enable Secure DNS view controller. */
+"SecureDNSUpsellViewController.swift: Screen Title" = "Safe Browsing";
+/* Heading text for Enable Secure DNS screen */
+"SecureDNSUpsellViewController.swift: Heading" = "Enhance privacy and add\nprotection against\ncybercriminals";
+/* Text for step 1 in order to setup Secure DNS */
+"SecureDNSUpsellViewController.swift: Step 1 Detail Text" = "Go to \"Settings -> General\" and \"VPN & Network\" or \"VPN & Device Management\"";
+/* Sub-heading text for Secure DNS Upsell screen */
+"SecureDNSUpsellViewController.swift: Sub-heading" = "How it works:";
+/* Text for About Secure DNS info label */
+"SecureDNSUpsellViewController.swift: Detail Text" = "Lookout provides enhanced privacy when you visit a website and perform a search request on that site. When this action isn't encrypted, cybercriminals can monitor your activity or redirect you to a malicious site without your knowledge.\n\nWhen a third party tries to intervene, Privacy Guard automatically protects your data by:\n\U2022 Encrypting your website requests so third parties can't monitor your activity.\n\U2022 Preventing cybercriminals from blocking legitimate sites or redirecting you to unsafe sites.";
+/* Title for Enable Secure DNS button */
+"SecureDNSUpsellViewController.swift: Enable Button" = "ENABLE NOW";
+/* Heading to be displayed on top of Secure DNS Setup Instructions screen */
+"SecureDNSUpsellViewController.swift: Instructions Heading" = "Setup Privacy Guard";
+/* Title of the button allowing user to get Premium subscription. */
+"SecureDNSUpsellViewController.swift: Get Premium Button Title" = "Get Premium";
+/* Local notification title when user has completed Secure DNS setup */
+"SecureDNSUpsellViewController.swift: Alert Title" = "Privacy Guard enabled";
+/* Local notification message when user has completed Secure DNS setup */
+"SecureDNSUpsellViewController.swift: Alert Message" = "You're now protected with the enhanced Safe Browsing feature.";
+
+/* --------------------------------------------------------------- */
+/* UI/Dashboard/Feature/FeatureContent/PersonalSafeBrowsingDashboardContent.swift */
+/* --------------------------------------------------------------- */
+/* Dashboard Safe Browsing tile tag */
+"PersonalSafeBrowsingDashboardContent.swift: Safe Browsing Tile Tag" = "NEW";
+
+/* ------------------------------------------------------------------- */
+/* ------- UI/SecureDNS/SecureDNSDashboardViewController.swift ------- */
+/* ------------------------------------------------------------------- */
+/* Title for the Secure DNS Dashboard view controller. */
+"SecureDNSDashboardViewController.swift: Screen Title" = "Safe Browsing";
+/* Safe Browsing feature name */
+"SecureDNSDashboardViewController.swift: Safe Browsing Feature Name" = "Safe Browsing";
+/* Safe Browsing short description text */
+"SecureDNSDashboardViewController.swift: Safe Browsing Short Description" = "Be protected from malicious sites and phishing attacks";
+/* Text for today activity header label for Secure DNS enabled state */
+"SecureDNSDashboardViewController.swift: Activity Header Label Enabled" = "Today's activity:";
+/* Text for today activity header label for Secure DNS disabled state */
+"SecureDNSDashboardViewController.swift: Activity Header Label Disabled" = "Potential risks:";
+/* Text for displaying number of flagged URLs */
+"SecureDNSDashboardViewController.swift: SB Enabled Activity Label" = "URLs flagged";
+/* Text for displaying potential risk when Secure DNS is disabled */
+"SecureDNSDashboardViewController.swift: SB Disabled Activity Label" = "URLs may not be protected";
+/* Secure DNS feature name */
+"SecureDNSDashboardViewController.swift: Secure DNS Feature Name" = "Privacy Guard";
+/* Text for Secure DNS state enabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Enabled State" = "Enabled";
+/* Text for Secure DNS state disabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Disabled State" = "Disabled";
+/* Secure DNS short description text */
+"SecureDNSDashboardViewController.swift: Secure DNS Short Description" = "Hide your online activity from potential hackers.";
+/* Text for activity label when Secure DNS is enabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Enabled Activity Value Label" = "All URLs are protected from online tracking";
+/* Text for activity label when Secure DNS is disabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Disabled Activity Value Label" = "URLs are exposed to online tracking";
+/* Disclaimer text for number of urls flagged*/
+"SecureDNSDashboardViewController.swift: Disclaimer Label" = "* The count of URLs will always exceed the count of web pages visited. Visiting a single web page means loading many URLs at the same time.";
+/* Text for local notification title to confirm Secure DNS deactivation */
+"SecureDNSDashboardViewController.swift: Alert Title" = "Are you sure you want to disable Safe Browsing?";
+/* Text for local notification message to confirm Secure DNS deactivation */
+"SecureDNSDashboardViewController.swift: Alert Message" = "When you turn off Safe Browsing, Lookout cannot protect you from potential threats or phishing attacks.";
+/* Heading to be displayed on top of Secure DNS Setup Instructions screen */
+"SecureDNSDashboardViewController.swift: Instructions Heading" = "Setup Privacy Guard";
+
+/* --------------------------------------------------------------- */
+/* ------- UI/SecureDNS/PushNotification ------ */
+/* --------------------------------------------------------------- */
+/** Secure DNS malicious push notification title */
+"MALICIOUS_CONTENT_TITLE" = "Malicious Content";
+/** Secure DNS malicious push notification message */
+"MALICIOUS_CONTENT_BODY" = "The device encountered malicious content either through user activity (in apps or browsers) or through background app activity";
+/* Secure DNS phishing push notification title */
+"PHISHING_CONTENT_TITLE" = "Phishing Content";
+/* Secure DNS phishing push notification message */
+"PHISHING_CONTENT_BODY" = "The device encountered phishing content either through user activity (in apps or browsers) or through background app activity";
+/* Secure DNS session refresh push notification title */
+"PCP_DOH_SESSION_REFRESH_TITLE" = "Launch the app to restore Safe Browsing";
+/* Secure DNS session refresh push notification message */
+"PCP_DOH_SESSION_REFRESH_BODY" = "After launching the app, Safe Browsing will be restored and you will be able to safely visit websites.";
+
+/* ---------------------------------------------------------- */
+/* ------- UI/SecureDNS/SecureDNSInfoViewController.swift ------- */
+/* ---------------------------------------------------------- */
+/* Text for how it works heading */
+"SecureDNSInfoViewController.swift: How Secure DNS Works Heading" = "How it works:";
+/* Text for how Secure DNS works */
+"SecureDNSInfoViewController.swift: How Secure DNS Works Detail Text" = "Lookout provides enhanced privacy when you visit a website and perform a search request on that site. When this action isn't encrypted, cybercriminals can monitor your activity or redirect you to a malicious site without your knowledge.\n\nWhen a third party tries to intervene, Privacy Guard automatically protects your data by:\n\U2022 Encrypting your DNS queries so third parties can't monitor your activity.\n\U2022 Preventing cybercriminals from blocking legitimate sites or redirecting you to unsafe sites.";
+
+/* ----------------------------------------------------------------- */
+/* ------- UI/SecureDNS/PersonalSecureDNSToggleHandler.swift ------- */
+/* ----------------------------------------------------------------- */
+/* Heading text for Enable Secure DNS screen */
+"PersonalSecureDNSToggleHandler.swift: Heading" = "Enhance privacy and add\nprotection against\ncybercriminals";
+/* Text for step 1 in order to setup Secure DNS */
+"PersonalSecureDNSToggleHandler.swift: Step 1 Detail Text" = "Go to \"Settings -> General\" and \"VPN & Network\" or \"VPN & Device Management\"";
+
+/* ------------------------------------------------------------------- */
+/* ------- Functionality/Application/PersonalInformation.swift ------- */
+/* ------------------------------------------------------------------- */
+/* Text for Secure DNS Provider Display Name */
+"PersonalInformation: Secure DNS Provider Display Name" = "Lookout Privacy Guard";

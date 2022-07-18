@@ -1,0 +1,1307 @@
+/*
+   --------------------------------------------------------------------- Functionality/Application/PersonalInformation.swift ----------------------------------------------------------------------
+*/
+
+/* Password recovery link. */
+"PersonalInformation.swift: Password Recovery link" = "https://www.lookout.com/m/recover";
+
+/* Support link. */
+"PersonalInformation.swift: Support link" = "https://personal.support.lookout.com";
+
+/* App Store link. */
+"PersonalInformation.swift: App Store link" = "https://itunes.apple.com/jp/app/id%@?mt=8";
+
+/* Link for SCL code redemption. */
+"PersonalInformation.swift: SCL Redeem link" = "https://lookout.com/redeem";
+
+/* Display name in iOS VPN settings. */
+"SafeBrowsingConfigControllerAppConfig+Personal.swift: VPN Display Name" = "Lookoutセーフブラウジング";
+
+/* User-facing name for basic account type. */
+"EntitlementAPI+Extension.swift: Basic Account Type" = "標準版";
+
+/* User-facing name for premium account type. */
+"EntitlementAPI+Extension.swift: Premium Account Type" = "プレミアム";
+
+/* User-facing name for premium plus account type. */
+"EntitlementAPI+Extension.swift: Premium Plus Account Type" = "プレミアムプラス";
+
+/* Text for ID Pro Introduction Title */
+"BreachReportDetailUpsellView.swift: IDProTitle" = "どんな個人情報の漏えいも逃さず検知し、警告を送信";
+
+/* Text for ID Pro Description */
+"BreachReportDetailUpsellView.swift: IDProDescription" = "Lookoutがインターネットをスキャンし、個人情報が売却されたりネットで公開されていないか調べます。";
+
+/* Text for ID Pro Button */
+"BreachReportDetailUpsellView.swift: IDProButtonText" = "IDプロテクションに関する詳細はこちら";
+
+/* Message in the dashboard's status bar when multiple features are active and
+   no problems are present. */
+"DashboardStatusBarContent+Values.swift: EverythingOkay" = "すべて正常です";
+
+/* Template for the message in the dashboard's status bar when only one feature
+   is active and it has no problems to report. */
+"DashboardStatusBarContent+Values.swift: SingleOkay" = "%@は正常です";
+
+/* Template for the message in the dashboard's status bar when a single feature
+   has problems to report. The name of the feature is substituted into the
+   placeholder. */
+"DashboardStatusBarContent+Values.swift: SingleIssue" = "%@を確認してください";
+
+/* Message in the dashboard's status bar when multiple features are active and
+   more than one of them has problems to report. */
+"DashboardStatusBarContent+Values.swift: MultipleIssues" = "以下の問題%d件を確認してください";
+
+/* "GET MORE" button in the top-right corner of the dashboard screen. */
+"DashboardViewController.swift: GetMore" = "保護を強化";
+
+/* Discount message text of MessageBar of the dashboard screen. */
+"DashboardViewController.swift: Discount MessageBarMessage" = "期間限定：IDプロテクションへのアップグレードを特別割引価格で提供";
+
+/* Trial message text of MessageBar of the dashboard screen. */
+"DashboardViewController.swift: Trial MessageBarMessage" = "特別企画：プレミアムプラスを%@日間無料でお試し";
+
+/* Trial message text for Premium of MessageBar of the dashboard screen. */
+ "DashboardViewController.swift: Trial MessageBarMessage For Premium"  = "特別企画：プレミアムを%@日間無料でお試し";
+
+/* Discount message text for Premium of MessageBar of the dashboard screen. */
+"DashboardViewController.swift: Discount MessageBarMessage For Premium" = "限定オファー：特別割引価格でプライバシー保護をアップグレード";
+
+/* Secure DNS uninstalled alert title */
+"DashboardViewController.swift: Secure DNS Uninstall Title" = "プライバシーガードを無効にします";
+
+/* Secure DNS uninstalled alert message */
+"DashboardViewController.swift: Secure DNS Uninstall Message" = "プライバシーガードで問題を検知したため、問題の解決まで機能を無効化しました。保護を維持するため、セーフブラウジングを再設定してください。";
+
+/* Title of the Theft Alerts feature Upsell screen. */
+"TheftAlertsUpsellViewController.swift: Title" = "盗難アラート";
+
+/* Theft Alerts feature description. */
+"TheftAlertsUpsellViewController.swift: Description" = "以下のような端末の盗難を推定させるアクティビティを検知すると、Lookoutは端末の位置情報を添付して盗難アラートメールを送信します。";
+
+/* Title of the Sim Card Removed feature. */
+"TheftAlertsUpsellViewController.swift: Sim Card Removed Feature Title" = "SIMカードが取り外されました";
+
+/* Title of the Airplane Mode Enabled feature. */
+"TheftAlertsUpsellViewController.swift: Airplane Mode Enabled Title" = "機内モードが有効化されました";
+
+/* Text explaining subscription details (i.e. price). */
+"TheftAlertsUpsellViewController.swift: Subscription Details" = "充実した機能が月額わずか$2.99";
+
+/* Title of the button allowing user to get Premium subscription. */
+"TheftAlertsUpsellViewController.swift: Get Premium Button Title" = "プレミアムにアップグレード";
+
+/* Title of the button allowing user send an example email. */
+"TheftAlertsUpsellViewController.swift: Send An Example Title" = "サンプルメールを送信";
+
+/* Header of the introduction view */
+"EducationViewController.swift: Header" = "新機能IDスキャンが加わりました";
+
+/* Feature explanation in the introduction view */
+"EducationViewController.swift: Feature Explanation" = "データ侵害が発生した場合、LookoutはIDスキャンにより、お客様の機密情報が漏えいしていないか調査します。";
+
+/* Got it button title */
+"EducationViewController.swift: Got It Button Title" = "OK";
+
+/* Try it now button title */
+"EducationViewController.swift: Try It Now Button Title" = "使ってみる";
+
+/* Welcome header for premium user */
+"PremiumOnboardingViewController.swift: Premium Welcome" = "Lookoutプレミアムにようこそ！";
+
+/* Welcome header for premium plus users */
+"PremiumOnboardingViewController.swift: Premium Plus Welcome" = "Lookoutプレミアムプラスにようこそ！";
+
+/* Get started button for premium users */
+"PremiumOnboardingViewController.swift: Setup Now" = "設定";
+
+/* Set up ID pro button for premium plus users */
+"PremiumOnboardingViewController.swift: Set Up ID Pro" = "IDプロテクションをセットアップ";
+
+/* Do it later button for premium plus users */
+"PremiumOnboardingViewController.swift: Do It Later" = "後で";
+
+/* ID pro detail text */
+"PremiumOnboardingViewController.swift: ID Pro Detail" = "個人情報の漏えいを監視し、詐欺被害を防止します";
+
+/* Premium plus insurance detail text */
+"PremiumOnboardingViewController.swift: Insurance Detail" = "$100万のID盗難補償およびID回復担当スタッフを365日体制で配備";
+
+/* Breach Reports detail text */
+"PremiumOnboardingViewController.swift: Breach Reports Detail" = "利用中のサービスが不正アクセスされた場合は直ちに警告を送信します";
+
+/* Setup needed label text */
+"PremiumOnboardingViewController.swift: Setup Needed" = "セットアップが必要です";
+
+/* ID Pro detail text */
+"PremiumOnboardingDetail.swift: ID Pro Detail" = "個人情報の漏えいを監視し、詐欺被害を防止します";
+
+/* Insurance detail text */
+"PremiumOnboardingDetail.swift: Insurance Detail" = "$100万のID盗難補償およびID回復担当スタッフを365日体制で配備";
+
+/* Safe Wifi detail text */
+"PremiumOnboardingDetail.swift: Safe Wifi Detail" = "Wi-Fiネットワークへの攻撃を検知";
+
+/* Breach Reports detail text */
+"PremiumOnboardingDetail.swift: Breach Reports Detail" = "利用中のサービスが不正アクセスされた場合は直ちに警告を送信します";
+
+/* Theft alerts detail text */
+"PremiumOnboardingDetail.swift: Theft Alerts Detail" = "誰かが端末を不要に操作するとアラートメールを送ります";
+
+/* Safe Browsing detail text */
+"PremiumOnboardingDetail.swift: Safe Browsing Detail" = "安全にウェブ閲覧できるようにし、フィッシング攻撃から端末を保護します";
+
+/* Header title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Header Title" = "ID盗難プロテクションを入手";
+
+/* SubHeader title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: SubHeader Title" = "%@日間無料";
+
+/* Try Free Button title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Try Free Button title" = "%@日間無料でお試し";
+
+/* Not Now Button title for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Not Now Button title" = "後で";
+
+/* View Terms and Conditions and Privacy Notice Statement for PremiumTrialLanding screen */
+"PremiumTrialLandingViewController.swift: Terms Statement" = "弊社の%1$@ および%2$@をご確認ください。";
+
+/* Replacement for %1$@ in template from above */
+"PremiumTrialLandingViewController.swift: Terms and Conditions" = "利用規約";
+
+/* Replacement for %2$@ in template from above */
+"PremiumTrialLandingViewController.swift: Privacy Notice" = "プライバシーノーティス";
+
+/* Price after trial period statement for PremiumTrialLanding screen where price is dynaic based on plan original price. */
+"PremiumTrialLandingViewController.swift: Price after Trial Period" = "Subscribe for %@%@";
+
+/* SubHeader title for Premium trial day available */
+"PremiumTrialLandingViewController.swift: FreeTrial Title" = "%@日間無料体験";
+
+/* Header title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Header Title" = "期間限定　特別割引価格";
+
+/* SubHeader title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: SubHeader Title" = "プレミアムプラスで\nプライバシーとIDを確実に保護";
+
+/* Upgrade Now Button title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Upgrade Button Title" = "今すぐアップグレード %@月";
+
+/* Regular price text for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Regular Price Text" = "通常価格 %@";
+
+/* Premium discount Upgrade Now Button title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Premium Upgrade Button Title" = "今すぐアップグレード %@%@";
+
+/* Premium discount Regular price text for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Premium Regular Price Text" = "通常価格 %@%@";
+
+/* Monthly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Monthly Format" = "/月";
+
+/* Yearly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Yearly Format" = "/年";
+
+/* Premium SubHeader title for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Premium SubHeader Title" = "プレミアムでプライバシーやWi-Fi接続にセキュリティ対策";
+
+/* Upgrade monthly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Upgrade Monthly Format" = "/月";
+
+/* Upgrade yearly format for PremiumDiscountOnboarding screen */
+"PremiumDiscountOnboardingViewController.swift: Upgrade Yearly Format" = "/年";
+
+/* Privacy Text for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Privacy Title" = "プライバシー：";
+
+/* Privacy Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Privacy Description" = "%@ お客様の個人情報がネットで共有されたり売買されると警告します。";
+
+/* Insurance Text for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Insurance Title" = "保険：";
+
+/* Insurance Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Insurance Description" = "%@ ID盗難について最大100万ドルまで補償";
+
+/* Live Agent Text for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Live Agent Title" = "ライブエージェント：";
+
+/* Live Agent Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Live Agent Description" = "%@ 年中無休の窓口で経験豊富なスタッフがリアルタイムでサポート。盗難に遭ったカードの再発行や金融機関への対応、ID回復などを手配します。";
+
+/* Premium Privacy Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Premium Privacy Description" = "%@ 個人のデータをフィッシング詐欺攻撃や危険なWi-Fiから保護します。";
+
+/* Phishing Protection Text for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Phishing Protection Title" = "フィッシング詐欺プロテクション：";
+
+/* Phishing Protection Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Phishing Protection Description" = "%@ フィッシング詐欺攻撃から保護します。";
+
+/* Breach Notifications Text for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Breach Notifications Title" = "データ侵害通知：";
+
+/* Breach Notifications Description for PremiumDescriptionContentView screen */
+"PremiumDescriptionContentView.swift: Breach Notifications Description" = "%@ ご利用のサービスからデータが窃取されたりネットに漏えいした場合に警告を送信します。";
+
+/* Alert title for products loading failure */
+"PremiumDiscountOnboardingRoute.swift: Product Loading Alert Title" = "コンテンツの読み込みで問題が発生しました";
+
+/* Alert message for products loading failure */
+"PremiumDiscountOnboardingRoute.swift: Product Loading Alert Message" = "有効なインターネットに接続していることを確認し、再試行してください。";
+
+/* Alert title for purchase failure */
+"PremiumDiscountOnboardingRoute.swift: Purchase Alert Title" = "購入内容を有効化できませんでした";
+
+/* Alert message for purchase message */
+"PremiumDiscountOnboardingRoute.swift: Purchase Alert Message" = "もう一度操作してください。";
+
+/* Alert title for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Alert Title" = "この特典の期間は終了しています";
+
+/* Alert message for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Alert Message" = "申し訳ありませんがこのプロモーションは有効期間を過ぎています";
+
+/* Trial eligible alert message for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Trial Eligible Alert Message" = "IDプロテクションは30日間無料トライアルを現在も実施中です。ぜひお試しください。";
+
+/* No thanks alert button title for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: No Thanks Button Title" = "利用しない";
+
+/* Learn more alert button title for PremiumPlusOfferDeepLinkHandler */
+"PremiumPlusOfferDeepLinkHandler.swift: Learn More Button Title" = "詳しくはこちら";
+
+/* Alert title for products loading failure */
+"PremiumPlusOfferDeepLinkHandler.swift: Product Loading Alert Title" = "コンテンツの読み込みで問題が発生しました";
+
+/* Alert message for products loading failure */
+"PremiumPlusOfferDeepLinkHandler.swift: Product Loading Alert Message" = "有効なインターネットに接続していることを確認し、再試行してください。";
+
+/* Alert title for purchase failure */
+"PremiumPlusOfferDeepLinkHandler.swift: Purchase Alert Title" = "購入内容を有効化できませんでした";
+
+/* Alert title for purchase message */
+"PremiumPlusOfferDeepLinkHandler.swift: Purchase Alert Message" = "もう一度操作してください。";
+
+/* IdMonitor notification message for PremiumPlusOfferNotification */
+"PremiumPlusOfferNotification.swift: IdMonitor Message" = "お客様のメールアカウントがネットで売買されたり共有されていないか確認します。";
+
+/* IdInsurance notification message for PremiumPlusOfferNotification */
+"PremiumPlusOfferNotification.swift: IdInsurance Message" = "100万ドルの保険証券の補償範囲に関する詳細はこちらをご覧ください。";
+
+/* Alert message for DiscountOfferDeepLinkHandler */
+"DiscountOfferDeepLinkHandler.swift: Alert Message" = "申し訳ありませんが、このプロモーションは無効です";
+
+/* Format for constructing text about users agreement to Lookout Terms & Conditions and Privacy Notice.
+   Pattern %@ will be replaced with either "sign up" or "log in" and clickable links "Terms and Conditions" and
+   "Privacy Notice" in runtime. */
+"GDPRComplianceView.swift: Agreement Format" = "Lookoutの%@のタップにより、弊社の%@に同意します。\nLookoutの%@をご確認ください。";
+
+/* User-facing name of Terms of Service. */
+"GDPRComplianceView.swift: Terms and Conditions" = "利用規約";
+
+/* User-facing name of Privacy Notice. */
+"GDPRComplianceView.swift: Privacy Notice" = "プライバシーノーティス";
+
+/* User-facing name of sign up screen. */
+"GDPRComplianceView.swift: Sign Up" = "利用登録";
+
+/* User-facing name of Login screen. */
+"GDPRComplianceView.swift: Log In" = "ログイン";
+
+/* Title of the login screen. */
+"LoginViewController.swift: Title" = "Lookoutを信頼するユーザーは1億人以上。端末だけでなくお客様のIDや金融情報、プライバシーをしっかり守ります";
+
+/* Subtitle of the login screen. */
+"LoginViewController.swift: Subtitle" = "利用登録で端末保護を開始し、セキュリティ警告を送信します";
+
+/* Title of login button */
+"LoginViewController.swift: Login Button Title" = "ログイン";
+
+/* Notice for new users to sign up */
+"LoginViewController.swift: Signup Notice" = "アカウントがない場合は";
+
+/* Title of signup button */
+"LoginViewController.swift: Signup Button Title" = "利用登録";
+
+/* Title of password recovery button */
+"LoginViewController.swift: Password Recovery Button Title" = "パスワードを忘れた場合";
+
+/* Subtitle when redeeming an SCL code */
+"LoginViewController.swift: SCL Subtitle" = "ログインしてコード適用を完了";
+
+/* Placeholder shown in field for entering user email */
+"RegistrationLocalization.swift: Email Field Placeholder" = "メールアドレス";
+
+/* Placeholder shown in field for entering user password */
+"RegistrationLocalization.swift: Password Field Placeholder" = "パスワード";
+
+/* Message for alert shown when user enters invalid email address. */
+"RegistrationLocalization.swift: Invalid Email" = "メールアドレスが正しくないようです。\nもう一度入力してください。";
+
+/* Message for alert shown when user enters invalid password. */
+"RegistrationLocalization.swift: Invalid Password" = "パスワードは6文字以上で2種類以上の文字（アルファベット、数字、記号）を含んでいることが必要です";
+
+/* Button title when SCL code redemption is in progress */
+"RegistrationLocalization.swift: Complete Redemption Button Title" = "適用を完了";
+
+/* Label before SCL code value */
+"RegistrationLocalization.swift: SCL Code Label" = "コード";
+
+/* Title for the Login/SignUp page when redeeming an SCL code */
+"RegistrationLocalization.swift: SCL Title" = "Lookoutプレミアム";
+
+/* Error title for login error due to an error without a specific message. */
+"RegistrationRoute.swift: Generic Error Title" = "エラーが発生しました";
+
+/* Error message for login error due to an error without a specific message. */
+"RegistrationRoute.swift: Generic Error Message" = "予期せぬエラーです。もう一度操作してください。";
+
+/* Describes errors returned from registration service. */
+"RegistrationRoute.swift: Registration Error" = "アカウントを作成できませんでした。もう一度試してください。";
+
+/* Error message shown when internet is not reachable and app is not able to omplete registration. */
+"RegistrationRoute.swift: Internet Reachability Error" = "Lookoutの登録にはネットワークへの接続が必要です。後でもう一度お試しください。";
+
+/* A general login error message. */
+"RegistrationRoute.swift: Login Error" = "ログインに失敗しました。もう一度やり直してください。";
+
+/* Login error message due to wrong username or password. */
+"RegistrationRoute.swift: 4001" = "メールアドレスとパスワードが一致しません。";
+
+/* Login error message due to maximum no of devices on the account. */
+"RegistrationRoute.swift: 4005" = "アカウントに登録している端末数が上限に達しています。新しいメールアドレスを入力するか、https://www.lookout.com/ でいずれかの端末を無効化してください。";
+
+/* Error message to be shown for wrong password combination. */
+"RegistrationRoute.swift: Weak Password Message" = "パスワードは8文字以上の長さで、文字、数字、記号ともに1文字以上含まれることが必要です。";
+
+/* Error message to be shown when maximum login attempts exceeded. */
+"RegistrationRoute.swift: Retry Login" = "試行回数が多すぎます。15分後に再操作してください。";
+
+/* Title of the Sign Up screen. */
+"SignUpViewController.swift: Title" = "Lookoutを信頼するユーザーは1億人以上。端末だけでなくお客様のIDや金融情報、プライバシーをしっかり守ります";
+
+/* Subtitle of the Sign Up screen. */
+"SignUpViewController.swift: Subtitle" = "利用登録で端末保護を開始し、セキュリティ警告を送信します";
+
+/* Title of the button starting sign up process. */
+"SignUpViewController.swift: Sign Up Title" = "利用登録";
+
+/* Notice for already registered user. */
+"SignUpViewController.swift: Have Account Title" = "既にアカウントをお持ちの場合は";
+
+/* Title of the login button. */
+"SignUpViewController.swift: Login Button Title" = "ログイン";
+
+/* Subtitle when redeeming an SCL code */
+"SignUpViewController.swift: SCL Subtitle" = "登録してコード適用を完了";
+
+/* Title of upsell screen presented after registration. */
+"RegistrationUpsellController.swift: Title" = "Lookoutセーフブラウジングのご案内";
+
+/* Content of Upsell screen: 1st paragraph. */
+"RegistrationUpsellController.swift: Content Paragraph 1" = "セーフブラウジングはセキュリティ保護を実行して、メール送信やテキストメッセージ、インターネット検索を安心して利用できるようにします。";
+
+/* Content of Upsell screen: 2nd paragraph. */
+"RegistrationUpsellController.swift: Content Paragraph 2" = "＊フィッシング詐欺やマルウェアウェブサイトを自動的にブロックし、プライバシーや機密データを保護します。";
+
+/* Content of Upsell screen: 3rd paragraph. */
+"RegistrationUpsellController.swift: Content Paragraph 3" = "＊Facebookやメール、SMSメッセージなどに添付されているリンクを安心してクリックできます。";
+
+/* Title of the Lean More button shown on upsell screen. */
+"RegistrationUpsellController.swift: Learn More Button Title" = "詳細を表示";
+
+/* Retry to redeem SCL code. */
+"SCLFailureViewController.swift: Try Again Button" = "再試行する";
+
+/* Dismisses the screen without redeeming code. */
+"SCLFailureViewController.swift: Continue Button" = "コードを適用せず続行";
+
+/* Shown when SCL code fetching is in progress. */
+"SCLFetchViewController.swift: Fetch Is In Progress Message" = "コードを取得しています…";
+
+/* Shown when SCL code fetching is finished. */
+"SCLFetchViewController.swift: Fetch Is Finished Message" = "コードを取得しました";
+
+/* Title of the SCL redemption success screen (in case of infinite Premium). */
+"SCLRedemptionResult+Extensions.swift: Redeemed Title" = "完了です。Lookoutプレミアムがお客様アカウントに追加されました。";
+
+/* Title format of the SCL redemption success screen. */
+"SCLRedemptionResult+Extensions.swift: Redeemed Title Format" = "完了です。Lookoutプレミアムの%@がお客様アカウントに追加されました。";
+
+/* Title of the SCL redemption success screen when account is already Premium. */
+"SCLRedemptionResult+Extensions.swift: Already Premium Title" = "Lookoutプレミアムを既にご利用中です。";
+
+/* Subtitle format of the SCL redemption success screen. */
+"SCLRedemptionResult+Extensions.swift: Redeemed Subtitle Format" = "有効期限：%@";
+
+/* Subtitle format of the SCL redemption success screen when account is already Premium */
+"SCLRedemptionResult+Extensions.swift: Already Premium Subtitle" = "詳細はsupport@lookout.comまでお問い合わせください";
+
+/* String showing no expiry date for a SCL code with infinite duration */
+"SCLRedemptionResult+Extensions.swift: Infinite expiration date string" = "該当なし";
+
+/* Dismisses the screen. */
+"SCLSuccessViewController.swift: Explore Button" = "Lookoutプレミアムを使ってみる";
+
+/* Localized text declaring copyright for the app. */
+"SettingsFooterView.swift: Copyright" = "©2022 Lookout, Inc All rights reserved";
+
+/* Localized template string for the account ID label. */
+"SettingsFooterView.swift: Account ID" = "ユーザーID：%@";
+
+/* Localized template string for the app version label. */
+"SettingsFooterView.swift: App version" = "バージョン：%@";
+
+/* Title text for the settings screen table; shown in the nav bar. */
+"SettingsViewController.swift: Title" = "設定";
+
+/* Title of the button closing settings screen. */
+"SettingsViewController.swift: Done Button" = "完了";
+
+/* Title text for the Account section of the table. */
+"SettingsViewController+Sections.swift: Account Section Title" = "アカウント";
+
+/* Title text for the About section of the table. */
+"SettingsViewController+Sections.swift: About Section Title" = "Lookoutについて";
+
+/* Title text for the Account section of the table. */
+"SettingsViewController+Sections.swift: Account Setting Name" = "アカウント";
+
+/* Title text for the "Rate the app" settings menu item. */
+"SettingsViewController+Sections.swift: About Row Rate" = "アプリを評価";
+
+/* Title text for the "Report" settings menu item. */
+"SettingsViewController+Sections.swift: About Row Report" = "レポート";
+
+/* Title text for the "Support" link in settings menu. */
+"SettingsViewController+Sections.swift: About Row Support" = "サポート";
+
+/* Title text for the legal statements in settings menu. */
+"SettingsViewController+Sections.swift: About Row Legal" = "法的事項";
+
+/* Title text for the privacy notice in settings menu. */
+"SettingsViewController+Sections.swift: About Row Privacy" = "プライバシーノーティス";
+
+/* Title text for the terms of service in settings menu. */
+"SettingsViewController+Sections.swift: About Row Terms" = "利用規約";
+
+/* Title of account info screen in settings. */
+"AccountInformationViewController.swift: Title" = "アカウント";
+
+/* Title of the back navigation item in settings. */
+"AccountInformationViewController.swift: Back Button" = "戻る";
+
+/* Title of the button dismissing preview page */
+"AccountDeletionPreviewViewController.swift: Never Mind Button" = "破棄";
+
+/* Title of the button opening inapp webview. */
+"AccountDeletionPreviewViewController.swift: Continue To Delete Button" = "続行して削除";
+
+/* Title of account deletion preview page. */
+"AccountDeletionPreviewViewController.swift: Delete Account Title" = "アカウントを削除";
+
+/* Instruction of account deletion in website. */
+"AccountDeletionPreviewViewController.swift: Delete Account Instruction" = "アカウントを削除する場合は\nLookoutにログインしてください";
+
+/* Title of the preview page for premium user */
+"ManageSubscriptionsPreviewViewController.swift: Title" = "サブスクリプションを管理";
+
+/* Title text of cancellation of subscription */
+"ManageSubscriptionsPreviewCancelSubscriptionCell.swift: Cancel Subscription" = "サブスクリプションをキャンセル";
+
+/* Description of cancellation of subscription */
+"ManageSubscriptionsPreviewCancelSubscriptionCell.swift: Description of Cancel Subscription" = "サブスクリプションのキャンセルは\nご購入元でお手続きください。\n詳細はこちらをクリック";
+
+/* Substring of Description of cancellation of subscription */
+"ManageSubscriptionsPreviewCancelSubscriptionCell.swift: Click here" = "こちらをクリック";
+
+/* Title of account deletion preview page */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Delete Account Title" = "アカウントを削除";
+
+/* Instruction of account deletion in website */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Delete Account Instruction" = "アカウントを削除する場合は\nLookoutにログインしてください";
+
+/* Title of the button dismissing preview page */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Never Mind Button" = "破棄";
+
+/* Title of the button opening inapp webview */
+"ManageSubscriptionsPreviewDeleteAccountCell.swift: Continue To Delete Button" = "続行して削除";
+
+/* Text to be displayed while payment info is loading */
+"AccountPaymentInformation.swift: Loading" = "読み込んでいます...";
+
+/* Text to be displayed while payment history retrieval is failed */
+"AccountPaymentInformation.swift: Fail Billing History" = "請求履歴の取得に失敗しました。";
+
+/* Text to be displayed while payment type retrieval is failed */
+"AccountPaymentInformation.swift: Fail Billing Type" = "請求タイプの取得に失敗しました。";
+
+/* Text to be displayed while payment detail retrieval is failed */
+"AccountPaymentInformation.swift: Fail Billing Detail" = "請求情報の取得に失敗しました。";
+
+/* Template for displaying next payment */
+"AccountPaymentInformation.swift: Next Payment Title" = "次回のお支払い：";
+
+/* Template for displaying payment history */
+"AccountPaymentInformation.swift: Payment History Title" = "お支払い履歴";
+
+/* Template for displaying payment type: Apple billing */
+"AccountPaymentInformation.swift: Payment Type Title" = "お支払い方法：";
+
+/* Template for displaying SCL expiration: SCL */
+"AccountPaymentInformation.swift: Payment Expiration Title" = "有効期限：";
+
+/* Title of the section on account settings page that displays the user's id. */
+"AccountSettingsLocalization.swift: Account Id Title" = "Eメール";
+
+/* Title of the section on account settings page that displayes the type of
+   user's subscription. */
+"AccountSettingsLocalization.swift: Account Type Title" = "アカウントの種類";
+
+/* Title of the section on account settings page that displays user's payment information like
+   billing type and payment history. */
+"AccountSettingsLocalization.swift: Payment Info Title" = "支払履歴";
+
+/* Title of the section on account settings page where user will be asked to create account */
+"AccountSettingsLocalization.swift: Create Account" = "アカウントを作成";
+
+/* Title of the section on account settings page where user will be asked to sign in to existing account */
+"AccountSettingsLocalization.swift: Log In Account" = "アカウントにログイン";
+
+/* Information of Login */
+"AccountSettingsLocalization.swift: Information Login" = "ログインしてパーソナライズサポートを取得し、端末紛失時に位置を検索";
+
+/* Information of Sign Up */
+"AccountSettingsLocalization.swift: Information Sign Up" = "利用登録によりパーソナライズ保護を実行し、端末の紛失時に位置検索します。";
+
+/* Status for successful billing */
+"PaymentInfoFormatter.swift: Billing Success Status" = "請求済み";
+
+/* Transaction ID label */
+"PaymentInfoFormatter.swift: Transaction Confirmation" = "取引確認";
+
+/* Next payment field text when no payments are scheduled. */
+"PaymentInfoFormatter.swift: No Scheduled Payments Label" = "お支払い日は未定です";
+
+/* Apple billing payment type */
+"PaymentInfoFormatter.swift: Billing Type App Store" = "App Store";
+
+/* Complimentary billing payment type */
+"PaymentInfoFormatter.swift: Billing Type Complimentary" = "優待";
+
+/* SCL billing payment type */
+"PaymentInfoFormatter.swift: Billing Type SCL" = "プレミアムコード";
+
+/* "Other" billing payment type */
+"PaymentInfoFormatter.swift: Billing Type Other" = "その他";
+
+/* "Orange" billing payment type */
+"PaymentInfoFormatter.swift: Billing Type Orange" = "Orange";
+
+/* Description of the basic subscription plan. */
+"AccountTypeManagementCell.swift: Basic Account Title" = "Lookout標準版";
+
+/* Description of the premium subscription plan. */
+"AccountTypeManagementCell.swift: Premium Account Title" = "Lookoutプレミアム";
+
+/* Description of the premium plus subscription plan. */
+"AccountTypeManagementCell.swift: Premium Plus Account Title" = "Lookoutプレミアムプラス";
+
+/* Title of account deletion button. */
+"AccountTypeManagementCell.swift: Delete account" = "アカウントを削除";
+
+/* Title of manage subscription button. */
+"AccountTypeManagementCell.swift: Manage subscription" = "サブスクリプションを管理";
+
+/* Status for next payment */
+"PaymentInfoCell.swift: Next Payment Title" = "次回のお支払い：";
+
+/* Header text before billing info */
+"PaymentInfoCell.swift: Payment History Title" = "支払履歴";
+
+/* Template for displaying payment type: Apple billing */
+"PaymentInfoCell.swift: Payment Type Title" = "お支払い方法：";
+
+/* Description of "Next Payment" when billed through orange carrier */
+"PaymentInfoCell.swift: Next Payment Orange" = "サービスプロバイダより請求";
+
+/* Device Security feature name */
+"UpsellFeature.swift: DeviceSecurity Feature Name" = "端末セキュリティ";
+
+/* Locate tools feature name */
+"UpsellFeature.swift: LocateTools Feature Name" = "位置検索ツール";
+
+/* ID Scan feature name */
+"UpsellFeature.swift: IdScan Feature Name" = "IDスキャン";
+
+/* Breach Report feature name */
+"UpsellFeature.swift: BreachReport Feature Name" = "セキュリティ侵害レポート";
+
+/* Safe WiFi feature name */
+"UpsellFeature.swift: SafeWiFi Feature Name" = "セーフWi-Fi";
+
+/* Safe Browsing feature name */
+"UpsellFeature.swift: SafeBrowsing Feature Name" = "セーフブラウジング";
+
+/* Theft Alerts feature name */
+"UpsellFeature.swift: TheftAlerts Feature Name" = "盗難アラート";
+
+/* Cyber Watch feature name */
+"UpsellFeature.swift: CyberWatch Feature Name" = "サイバー監視";
+
+/* 24/7 Restoration Assistance feature name */
+"UpsellFeature.swift: RestorationAssistance Feature Name" = "365日体制の回復サポート";
+
+/* $1M Identity Theft Insurance feature name */
+"UpsellFeature.swift: IdentityTheftInsurance Feature Name" = "最高額$100万のID盗難補償";
+
+/* Social Media Watch feature name */
+"UpsellFeature.swift: SocialMediaWatch Feature Name" = "ソーシャルメディア監視";
+
+/* Social Security Number Watch feature name */
+"UpsellFeature.swift: SocialSecurityNumberWatch Feature Name" = "社会保障番号監視";
+
+/* Lost Wallet Recovery feature name */
+"UpsellFeature.swift: LostWalletRecovery Feature Name" = "財布の紛失時対応";
+
+/* Basic upsell plan name */
+"UpsellPlan.swift: Basic Plan Name" = "標準版";
+
+/* Premium upsell plan name */
+"UpsellPlan.swift: Premium Plan Name" = "プレミアム";
+
+/* Premium Plus upsell plan name */
+"UpsellPlan.swift: PremiumPlus Plan Name" = "プレミアムプラス";
+
+/* Price for basic plan type */
+"UpsellPlan.swift: Basic Plan Price" = "無料";
+
+/* Price for free trial */
+"UpsellPlan.swift: Free Trial" = "無料トライアル";
+
+/* Header before list of features for Premium Plan. */
+"ExtendedPlanDescriptionController.swift: Premium Plan Extended Features List Header" = "標準版パッケージの全機能に加え、以下の高度なセキュリティ保護をご利用いただけます。";
+
+/* Header before list of features for Premium Plus Plan. */
+"ExtendedPlanDescriptionController.swift: PremiumPlus Plan Extended Features List Header" = "標準版およびプレミアムパッケージの全機能に加え、以下のID保護機能をご利用いただけます。";
+
+/* BreachReport description */
+"ExtendedPlanDescriptionController.swift: BreachReport Extended Description" = "ご利用のサービスやアプリがセキュリティ侵害を受けた場合、直ちに警告を送信します。";
+
+/* Breach Report notice */
+"ExtendedPlanDescriptionController.swift: BreachReport Notice" = "セキュリティ侵害レポートは英語版のみご利用いただけます。";
+
+/* Safe WiFi description */
+"ExtendedPlanDescriptionController.swift: SafeWiFi Extended Description" = "危険なWi-Fiネットワークから端末を保護します。\n・不正アクセスされているWi-Fiネットワークに接続した場合、アラート送信します。\n・危険なWi-Fiからの切断方法をステップごとに説明します。";
+
+/* Safe Browsing description */
+"ExtendedPlanDescriptionController.swift: SafeBrowsing Extended Description" = "次のような悪質なサイトを開いた場合に警告を送信します。\n個人情報を盗み出すページ\n支払情報を盗み出すページ\nユーザーを騙してマルウェアをダウンロードさせようとするページ";
+
+/* Theft Alerts description */
+"ExtendedPlanDescriptionController.swift: TheftAlerts Extended Description" = "お使いの端末が盗難に遭ったと思われる場合にメールで警告します。また、アクティビティの種類で受信アラートをコントロールできます。\n・SIMカードの取り出し\n・機内モードの有効化";
+
+/* Identity Theft Insurance description */
+"ExtendedPlanDescriptionController.swift: IdentityTheftInsurance Extended Description" = "ID回復に関連して発生する費用は法的手続きを始めとして、収入の損失、書類の再発行など瞬く間に増加します。ID回復保険は控除免責金額は一切設けず、最大100万米ドルまで補償します。";
+
+/* IdentityTheftInsurance notice format */
+"ExtendedPlanDescriptionController.swift: IdentityTheftInsurance Notice Format" = "*保険による補償は第三者によるサービスです。保険証券に設定される契約条件や免責事項は%@でご確認いただけます。Lookoutは認可を受けた保険業者もしくは保険代理店ではありません。";
+
+/* Replacement for %@ in template above */
+"ExtendedPlanDescriptionController.swift: IdentityTheftInsurance Legal Link" = "www.lookout.com/legal";
+
+/* Restoration Assistance description */
+"ExtendedPlanDescriptionController.swift: RestorationAssistance Extended Description" = "正式な資格を持つ回復手続のスタッフが365日常駐し、疑問点などのお問い合わせに対応します。\n\nID盗難が発生した場合はお客様ごとに担当者を決定し、長期にわたるID回復の手続きをお手伝いします。";
+
+/* Cyber Watch description */
+"ExtendedPlanDescriptionController.swift: CyberWatch Extended Description" = "Lookoutはインターネットをスキャンして、お客様が指定した個人情報が漏えいしていないか監視します。お客様に関する情報が不正に利用されているのを発見した場合は、メールと端末の通知機能を使用して警告をお知らせします。\n\n個人情報が盗まれた場合、IIDプロテクションの専門スタッフがID回復の手続きを最後までサポートし、疑問点などのお問い合わせにも対応します。\n\n監視対象として指定可能なデータには次のものがあります。\n\n- 社会保障番号\n- 金融機関の口座番号\n- クレジットおよびデビットカード番号\n- 運転免許証\n- Eメールアドレス\n- パスポート\n- 電話番号\n- 健康保険番号";
+
+/* Social Media Watch description */
+"ExtendedPlanDescriptionController.swift: SocialMediaWatch Extended Description" = "Lookoutはソーシャルメディアのアカウントをスキャンし、あなたの個人情報が公開されていないか監視します。生年月日や住所地など、情報が犯罪者に悪用される可能性がある場合は警告を送信します。\n\nさらに攻撃的な内容を含む恐れのある投稿にあなたがタグ付けされていないか監視し、みだらな言葉や性的な内容、もしくはドラッグやアルコールに関して言及するなどあなたの名誉を棄損する恐れのある場合は警告を送信します。";
+
+/* Social Security Number Watch description */
+"ExtendedPlanDescriptionController.swift: SocialSecurityNumberWatch Extended Description" = "名前や住所、その他社会保障番号に関する記録の全履歴を表示します。記録に変更が生じた場合はリアルタイムで通知します。";
+
+/* Lost Wallet Recovery description */
+"ExtendedPlanDescriptionController.swift: LostWalletRecovery Extended Description" = "財布の盗難や紛失に遭った場合は、回復の専門資格を持つLookoutのスタッフが直ちに対応し、財布に入っていたアイテムの解約と再発行の手続きをします。これなら設定を一からやり直す必要はありません。\n\n証明書についてはLookoutが発行機関に問い合わせて、「本人申告情報」の登録や警察への届け出など、あなたに代わって必要な書類を準備します。";
+
+/* Title for button that navigates to the next page in the carousel. */
+"PlanComparisonViewController.swift: Upgrade Button" = "アップグレード";
+
+/* Header before features list for Premium Plan */
+"PlanDescriptionController.swift: Premium Plan Features List Header" = "基本的なアプリセキュリティと位置検索機能に以下の機能をプラス：";
+
+/* Header before features list for Premium Plus Plan */
+"PlanDescriptionController.swift: PremiumPlus Plan Features List Header" = "標準版およびプレミアムの機能に以下の機能をプラス：";
+
+/* Title for button that navigates to extended plan description screen. */
+"PlanDescriptionController.swift: Learn More Button Title" = "詳細を表示";
+
+/* Breach Report feature description */
+"PlanDescriptionController.swift: BreachReport Short Description" = "利用中の企業やサービスがセキュリティ侵害を受けた場合にアラート送信します";
+
+/* Breach Report feature notice */
+"PlanDescriptionController.swift: BreachReport Short Description Notice" = "（セキュリティ侵害レポートは現在英語のみの提供となっています）";
+
+/* Safe WiFi feature description */
+"PlanDescriptionController.swift: SafeWiFi Short Description" = "接続したWi-Fiネットワークが危険な場合、もしくは攻撃を受けている場合に警告を送信します";
+
+/* Safe Browsing feature description */
+"PlanDescriptionController.swift: SafeBrowsing Short Description" = "悪質なサイトを開いた場合に警告を送信します";
+
+/* Theft Alerts feature description */
+"PlanDescriptionController.swift: TheftAlerts Short Description" = "端末の盗難に類似する疑わしいアクティビティを検知した場合、警告を送信します。";
+
+/* Cyber Watch feature description */
+"PlanDescriptionController.swift: CyberWatch Short Description" = "インターネット上であなたのIDが悪用目的で使用される、もしくはその可能性がないか確認します";
+
+/* Restoration Assistance feature description */
+"PlanDescriptionController.swift: RestorationAssistance Short Description" = "Lookoutの専門スタッフが365日体制で紛失・盗難したカードを再発行し、IDを回復します";
+
+/* Identity Theft Insurance feature description */
+"PlanDescriptionController.swift: IdentityTheftInsurance Short Description" = "法務関連の費用や収入の減少分の他、盗難に遭ったIDの回復に関連するその他の出費をカバーします。";
+
+/* Button title for monthly price. */
+"ProductDescription+UI.swift: Monthly Product Button Title Format" = "月額：%@";
+
+/* Button title for total charges for yearly subscription. */
+"ProductDescription+UI.swift: Yearly Product Button Title Format" = "年間：%@";
+
+/* Button subtitle for monthly price for yearly subscriptions. */
+"ProductDescription+UI.swift: Monthly Price Subtitle Format" = "%@/1ヶ月";
+
+/* Button subtitle for monthly price after trial period. */
+"ProductDescription+UI.swift: Monthly Price After Trial Subtitle Format" = "%@/mo after";
+
+/* Button subtitle for Yearly price after trial period. */
+"ProductDescription+UI.swift: Yearly Price After Trial Subtitle Format" = "以降 %@/年";
+
+/* Button title for monthly Free Trial price */
+"ProductDescription+UI.swift: Free Trial" = "無料トライアル";
+
+/* Button title for monthly Free Trial Days */
+"ProductDescription+UI.swift: Free Trial Days" = "%@ DAYS FREE";
+
+/* Screen title. */
+"TermsAndConditionsViewController.swift: Screen Title" = "Auto-Renew Policy";
+
+/* Title of the back navigation item in terms and conditions. */
+"TermsAndConditionsViewController.swift: Back Button" = "戻る";
+
+
+/* Terms Of Service body (second paragraph) format */
+"TermsAndConditionsViewController.swift: Terms Of Service Body Format" = "LookoutプレミアムまたはLookoutプレミアムプラスへのご利用登録により、お客様は登録内容に応じて、月次もしくは年次、その他お客様が選択した登録期間で自動課金されることをLookoutに対して同意し、承諾するものとします。また当該製品の利用は自動更新で、お客様が（以下記載の要領で）自動更新の設定を解除しない限り継続することをお客様は理解し、同意します。自動更新は解除時点で利用期間の24時間以上前であることが条件であることにご注意ください。Lookoutは利用料金を変更する権利を留保し、登録の自動更新時に改定料金を適用するものとします。利用料金の改定があるときは登録更新の前にLookoutからお客様にお知らせします。登録が更新されると、その時点で適用される利用金額が自動的にお客様アカウントに請求されますので、Lookoutからアカウントに登録されている支払い方法に対する課金をお客様に承認していただきます。利用登録の管理、および自動更新設定の切り替えを実行する場合は、購入後にApp Storeアプリのアカウント設定画面を開いて操作してください。利用期間中に登録を解約できますが、途中の解約による返金やクレジット返還には応じかねます（アメリカ合衆国のみ）。お客様は弊社からの通信をすべて電子媒体で行うことに同意するものとします。";
+
+/* Alert title for products loading failure */
+"UpsellRoute.swift: Product Loading Alert Title" = "コンテンツの読み込みで問題が発生しました";
+
+/* Alert message for products loading failure */
+"UpsellRoute.swift: Product Loading Alert Message" = "有効なインターネットに接続していることを確認し、再試行してください。";
+
+/* Alert title for purchase failure */
+"UpsellRoute.swift: Purchase Alert Title" = "購入内容を有効化できませんでした";
+
+/* Alert title for purchase message */
+"UpsellRoute.swift: Purchase Alert Message" = "もう一度操作してください。";
+
+/* Upsell carousel screen title. */
+"UpsellViewController.swift: Screen Title" = "保護を強化";
+
+/* Done button dismisses the screen. */
+"UpsellViewController.swift: Done Button Title" = "完了";
+
+/* Upsell Auto Renewal Statement format */
+"UpsellViewController.swift: Auto Renewal Statement" = "このボタンのクリックにより、お客様は弊社の%1$@に同意します。弊社の%2$@ および%3$@をご確認ください。";
+
+/* Replacement for %1$@ in template from above */
+"UpsellViewController.swift: Auto-Renew Policy" = "自動更新ポリシー";
+
+/* Replacement for %2$@ in template from above */
+"UpsellViewController.swift: Terms and Conditions" = "利用規約";
+
+/* Replacement for %3$@ in template from above */
+"UpsellViewController.swift: Privacy Notice" = "プライバシーノーティス";
+ 
+/*
+   Message format for non recoverable error returned from Cashier during
+   receipt validation. */
+"DefaultAppStoreReceiptValidator: Non Recoverable Error Message" = "%@のHTTPステータスを受信しました";
+
+/* Breach Report feature name upsold in ID Scan feature. */
+"IDScanFeatureUpsell+Personal.swift: Breach Report Name" = "データ侵害レポート";
+
+/* Upsell description for Breach Report */
+"IDScanFeatureUpsell+Personal.swift: Breach Report Description" = "このEメールアカウントで登録されているサービスを監視し、データ侵害が発生した場合はデータ侵害レポートで警告します。";
+
+/* ID Pro feature name upsold in ID Scan feature. */
+"IDScanFeatureUpsell+Personal.swift: ID Pro Name" = "IDプロテクション";
+
+/* Upsell description for ID Pro */
+"IDScanFeatureUpsell+Personal.swift: ID Pro Description" = "お客様のEメールアドレスがオンラインで販売されていることを検知すると、IDプロテクションが警告します。";
+
+/* Navigation back button title. */
+"UIViewController+BackButtonItem.swift: Title" = "戻る";
+
+/* Safe Browsing setup description details label text */
+"SafeBrowsingSetupViewController.swift: Details Label" = "セキュリティ保護の設定方法\n\nセキュアVPN接続の作成をLookoutに許可し、通信を分析できるようにしてください。\n\nLookoutはVPNを使用し、端末のトラフィックに脅威がないか分析します。お客様の個人情報が開示されることは一切なく、またLookoutがお客様の通信履歴を保管することもありません。";
+
+/* Status message for safe browsing when the feature is attempting to reconnect */
+"SafeBrowsingFeature.swift: Another Already Connected" = "一時停止";
+
+/* ------------------------------------------------------------------------------------------ */
+/* ------- Functionality/Service/DeepLinks/Handlers/InAppPurchaseRoute.swift ------- */
+/* ------------------------------------------------------------------------------------------ */
+/* Alert title for products loading failure */
+"InAppPurchaseRoute.swift: Product Loading Alert Title" = "コンテンツの読み込みで問題が発生しました";
+/* Alert message for products loading failure */
+"InAppPurchaseRoute.swift: Product Loading Alert Message" = "有効なインターネットに接続していることを確認し、再試行してください。";
+/* Alert title for purchase failure */
+"InAppPurchaseRoute.swift: Purchase Alert Title" = "購入内容を有効化できませんでした";
+/* Alert message for purchase failure */
+"InAppPurchaseRoute.swift: Purchase Alert Message" = "もう一度操作してください。";
+
+/* -------------------------------------------------------------------------------------------------------------- */
+/* --- UI/IdentityMonitoring/PersonalInformation/SocialSecurityNumber/SSNInformationEntryHostController.swift --- */
+/* -------------------------------------------------------------------------------------------------------------- */
+/* SSN screen sub heading */
+"SSNInformationEntryHostController.swift: Screen subDescription" = "他のID監視サービス作動のためにSSNを入力する必要はありません。";
+
+/* ---------------------------------------------------------------------------------------------- */
+/* --- LKOSafeWiFiFeature/Functionality/SafeWiFiFeature/Components/SafeWiFiNotification.swift --- */
+/* ---------------------------------------------------------------------------------------------- */
+/* local notification title when unprotected newtwork is connected. */
+ "SafeWiFiNotification.swift: Unprotected Network Title"  = "%@は保護されていないネットワークです";
+/* local notification message when unprotected newtwork is connected. */
+ "SafeWiFiNotification.swift: Unprotected Network Message"  = "これらのネットワークではお持ちのデータが攻撃を受ける可能性があります。保護を強化してください。";
+
+/* ------------------------------------------------------------------------------------------ */
+/* ------- Functionality/Application/PersonalLaunchManager.swift ------- */
+/* ------------------------------------------------------------------------------------------ */
+/* Alert text for device deactivation */
+"PersonalLaunchManager.swift: device deactivated" = "エラーが発生したようです。再ログインしてください。";
+"PersonalLaunchManager.swift: alert ok button" = "OK";
+
+/* ---------- UI/Upsell/ContextualUpsellViewController.swift ----------- */
+/* ---------------------------------------------------------------- */
+/* Title text for the header Contextual view without wifi name */
+"ContextualUpsellViewController.swift: Title Without Wifi Name" = "危険なWi-Fiネットワークに接続しています";
+/* Title text for the header Contextual view with Wifi name */
+"ContextualUpsellViewController.swift: Title With Wifi Name" = "%@のWi-Fiは危険です";
+/* Description text for the Contextual view */
+"ContextualUpsellViewController.swift: Screen Description" = "危険なWi-Fiネットワークではあなたの個人情報が第三者に傍受される恐れがあります。この危険はLookoutが排除しました。ご安心ください。";
+/* Title text for Auto Renewal Statement format*/
+"ContextualUpsellViewController.swift: Auto Renewal Statement" = "上記のボタンをクリックすると、お客様は弊社の%1$@に同意します。弊社の%2$@および%3$@をご確認ください。";
+/* Title text for Auto-Renew Policy link */
+"ContextualUpsellViewController.swift: Auto-Renew Policy" = "自動更新ポリシー";
+/* Title text for Terms and Conditions link */
+"ContextualUpsellViewController.swift: Terms and Conditions" = "利用規約";
+/* Title text for Privacy Policy link */
+"ContextualUpsellViewController.swift: Privacy Notice" = "プライバシーノーティス";
+/* Title text for Upgrade label */
+"ContextualUpsellViewController.swift: Upgrade title" = "アップグレードでデータを守りましょう";
+/* Title text for Premium button to show the format depends on payment plan */
+"ContextualUpsellViewController.swift: Premium Button Title" = "プレミアムを入手%@ %@ %@";
+/* Title text for Premium button to show 'Off' text*/
+"ContextualUpsellViewController.swift: Off Format" = "オフ";
+/* Subtitle text for Premium button to show 'After' text*/
+"ContextualUpsellViewController.swift: After Format" = "以降";
+/* Subtitle text format for Premium button to show trial price amount*/
+"ContextualUpsellViewController.swift: Then Format" = "以降%@%@ %@";
+/* Title text for Premium button to show yearly format */
+"ContextualUpsellViewController.swift: Yearly Format" = "/年";
+/* Subtitle text for Premium button to show monthly format */
+"ContextualUpsellViewController.swift: Monthly Format" = "/月";
+/* Title text for premium button to show trial days */
+"ContextualUpsellViewController.swift: Days Free Format" = "日間無料";
+/* Subtitle text for premium button to show yearly price amount */
+"ContextualUpsellViewController.swift: Premium Button Price Subtitle" = "価格：%@%@ %@";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Contextual/ContextualUpsellRoute.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Alert title for products loading failure */
+"ContextualUpsellRoute.swift: Product Loading Alert Title" = "コンテンツの読み込みで問題が発生しました";
+/* Alert message for products loading failure */
+"ContextualUpsellRoute.swift: Product Loading Alert Message" = "有効なインターネットに接続していることを確認し、再試行してください。";
+/* Alert title for purchase failure */
+"ContextualUpsellRoute.swift: Purchase Alert Title" = "購入内容を有効化できませんでした";
+/* Alert title for purchase message */
+"ContextualUpsellRoute.swift: Purchase Alert Message" = "もう一度操作してください。";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/FeatureEducation/FeatureEducation.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Header Title text for Feature education screen */
+"FeatureEducation.swift: Header Title" = "デジタル脅威にはこのような種類があります";
+/* Title text for device threat container */
+"FeatureEducation.swift: deviceThreat feature Name" = "端末脅威";
+/* Title text for network threat container */
+"FeatureEducation.swift: networkThreat feature Name" = "ネットワーク脅威";
+/* Title text for identity theft container */
+"FeatureEducation.swift: identityTheft feature Name" = "ID脅威";
+/* Description text for device threat container */
+"FeatureEducation.swift: deviceThreat Description" = "これらの脅威にはお使いのオペレーティングシステムの脆弱性やマルウェアのほか、端末の紛失や盗難も挙げられます。\n\nこうした脅威にさらされることにより、端末の動作が遅くなるほか、個人情報が盗み出されたり、不快な出来事に遭遇する恐れがあります。";
+/* Description text for network threat container */
+"FeatureEducation.swift: networkThreat Description" = "これらの脅威にはWi-Fiネットワーク経由でデータを摂取するハッカーや、ウェブサイトやテキストメッセージに記載された危険なリンクが挙げられます。\n\nこうした脅威の被害に遭うと、金融関連の情報や住所といった他人には知られたくない個人データが盗み出される恐れがあります。";
+/* Description text for identity theft container */
+"FeatureEducation.swift: identityTheft Description" = "これらの脅威として、利用している企業からのデータ侵害によって個人的もしくは金融関連の情報が漏えいすることが挙げられます。\n\nこのような事件から、お客様の情報が知らないうちに詐欺に使用されてしまうと、解決が困難な場合があります。";
+/* Button text for device threat container */
+"FeatureEducation.swift: Device protection Button title" = "端末の保護機能を表示";
+/* Button text for network threat container */
+"FeatureEducation.swift: Network protection Button title" = "ネットワークの保護機能を表示";
+/* Button text for identity theft container */
+"FeatureEducation.swift: Identity protection Button title" = "IDの保護機能を表示";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Onboarding/OnboardingViewController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Header title text for Onboarding screen */
+"OnboardingViewController.swift: Protect Device" = "Lookoutで端末やネットワーク、IDを保護します";
+/* Button text to intiate Anonymous Registration */
+"OnboardingViewController.swift: Start Protection" = "保護を開始";
+/* Educate user about login flow  */
+"OnboardingViewController.swift: Already Account" = "既にアカウントをお持ちの場合は";
+/* Button text for login flow */
+"OnboardingViewController.swift: Login" = "ログイン";
+/* Agreement format for Terms & Condition and Privacy Notice */
+"OnboardingViewController.swift: Agreement Format" = "「保護を開始」のタップによりお客様は弊社の%@および%@に同意します。";
+/* User-facing name of Terms of Service. */
+"OnboardingViewController.swift: Terms and Conditions" = "利用規約";
+/* User-facing name of Privacy Notice. */
+"OnboardingViewController.swift: Privacy Notice" = "プライバシーノーティス";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Onboarding/OnboardingRoute.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Error title for login error due to an error without a specific message. */
+"OnboardingRoute.swift: Generic Error Title" = "エラーが発生しました";
+/* Error message for login error due to an error without a specific message. */
+"OnboardingRoute.swift: Generic Error Message" = "予期せぬエラーです。もう一度操作してください。";
+/* Error message shown when internet is not reachable and app is not able to complete registration. */
+"OnboardingRoute.swift: Internet Reachability Error" = "Lookoutの登録にはネットワークへの接続が必要です。後でもう一度お試しください。";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/SCL/PartnerWelcomeDialog.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Explore button title for Allstate partner welcome dialog */
+"AllstatePartnerWelcomeDialog.swift: Sounds Good Button" = "了解して次へ";
+/* Description text for Allstate partner welcome dialog */
+"AllstatePartnerWelcomeDialog.swift: Description Title" = "ようこそ！LookoutモバイルアプリはAllstate IDプロテクションプランに含まれています。";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Authentication/SignInViewController.swift ---------- */
+/* ---------------------------------------------------------------- */
+/* Placeholder shown in field for entering user email */
+"SignInViewController.swift: Email Field Placeholder" = "メールアドレス";
+/* Placeholder shown in field for entering user password */
+"SignInViewController.swift: Password Field Placeholder" = "パスワード";
+/* Notice for new users to sign up */
+"SignInViewController.swift: Signup Notice" = "アカウントがない場合は";
+/* Title of signup button */
+"SignInViewController.swift: Signup Button Title" = "利用登録";
+/* Title of login button */
+"SignInViewController.swift: Login Button Title" = "ログイン";
+/* Title of password recovery button */
+"SignInViewController.swift: Password Recovery Button Title" = "パスワードを忘れた場合";
+
+/* ---------------------------------------------------------------- */
+/* ------ UI/Authentication/RegistrationViewController.swift ---------- */
+/* ---------------------------------------------------------------- */
+/* Placeholder shown in field for entering user email */
+"RegistrationViewController.swift: Email Field Placeholder" = "メールアドレス";
+/* Placeholder shown in field for entering user password */
+"RegistrationViewController.swift: Password Field Placeholder" = "パスワード";
+/* Notice for existing users for Login */
+"RegistrationViewController.swift: Login Notice" = "既にアカウントをお持ちの場合は";
+/* Title of log in button */
+"RegistrationViewController.swift: Login Button Title" = "ログイン";
+/* Title of sign up button */
+"RegistrationViewController.swift: Signup Button Title" = "アカウントを作成";
+/* Password Requirement new users */
+"RegistrationViewController.swift: Password Requirement" = "パスワードは6文字以上で2種類以上の文字（アルファベット、数字、記号）を含んでいることが必要です";
+/* Error title for existing user */
+"RegistrationViewController.swift: Existing Email Error Title" = "このEメールはすでに使用されています。";
+/* Error sub-title for existing user */
+"RegistrationViewController.swift: Existing Email Error Subtitle" = "このEメールはすでに使用されているようです。お客様のアカウントにログインしてください。";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/Authentication/Functionality/AuthenticationPresenter.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Describes errors returned from registration service. */
+"DefaultAuthenticationPresenter.swift: Registration Error" = "アカウントを作成できませんでした。もう一度試してください。";
+/* Error message shown when internet is not reachable and app is not able to omplete registration. */
+"DefaultAuthenticationPresenter.swift: Internet Reachability Error" = "Lookoutの登録にはネットワークへの接続が必要です。後でもう一度お試しください。";
+/* A general login error message. */
+"DefaultAuthenticationPresenter.swift: Login Error" = "ログインに失敗しました。もう一度やり直してください。";
+/* Error title for login error due to an error without a specific message. */
+"DefaultAuthenticationPresenter.swift: Generic Error Title" = "エラーが発生しました";
+/* Error message for login error due to an error without a specific message. */
+"DefaultAuthenticationPresenter.swift: Generic Error Message" = "予期せぬエラーです。もう一度操作してください。";
+/* Login error message due to wrong username or password. */
+"DefaultAuthenticationPresenter.swift: 4001" = "メールアドレスとパスワードが一致しません。";
+/* Login error message due to maximum no of devices on the account. */
+"DefaultAuthenticationPresenter.swift: 4005" = "アカウントに登録している端末数が上限に達しています。新しいメールアドレスを入力するか、https://www.lookout.com/ でいずれかの端末を無効化してください。";
+
+/* ---------------------------------------------------------------- */
+/* ------------- UI/Upsell/UpsellAuthenticationController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation */
+"UpsellAuthenticationController.swift: Account Creation" = "アカウントを作成して購入";
+/* Screen Title for login into existing account */
+"UpsellAuthenticationController.swift: Login Account" = "ログインして購入";
+/* Upgrade button title in Authentication screens */
+"UpsellAuthenticationController.swift: Upgrade Button" = "%@/%@でアップグレード";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/HeaderEnrichment/HESuccessViewController.swift ----- */
+/* ---------------------------------------------------------------- */
+/* Title text for header enrichment success controller */
+"HESuccessViewController.swift: Title Label" = "嬉しいお知らせです！";
+/* Subtitle text format for header enrichment success controller */
+"HESuccessViewController.swift: Subtitle Label" = "%2$@では%1$@を提供しています！今すぐ有効化しましょう。";
+/* Activate button title for header enrichment success controller */
+"HESuccessViewController.swift: Activate Button" = "有効化する";
+
+/* ---------------------------------------------------------------- */
+/* -------- UI/HeaderEnrichment/HEAuthenticationController.swift -- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation  */
+"HEAuthenticationController.swift: Account Creation" = "アカウント作成後に有効化";
+/* Screen Title for login into existing account  */
+"HEAuthenticationController.swift: Login Account" = "ログインして有効化";
+/* Upgrade button title in Authentication screens  */
+"HEAuthenticationController.swift: Upgrade Button" = "Lookoutプレミアムにアップグレード";
+
+/* ---------------------------------------------------------------- */
+/* ------------- UI/Dashboard/Feature/TheftAlerts/TheftAlertsUpsellAuthenticationController.swift ------------- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation  */
+"TheftAlertsUpsellAuthenticationController.swift: Account Creation" = "アカウントを作成して盗難アラートをテスト";
+/* Screen Title for login into existing account  */
+"TheftAlertsUpsellAuthenticationController.swift: Login Account" = "ログインして盗難アラートをテスト";
+
+/* ---------------------------------------------------------------- */
+/* ----- UI/Upsell/OnboardingInformation/OnboardingInformationViewController.swift -- */
+/* ---------------------------------------------------------------- */
+/* Welcome header for premium user */
+"OnboardingInformationViewController.swift: Premium Welcome" = "Lookoutプレミアムにようこそ！";
+/* Welcome header for premium plus users */
+"OnboardingInformationViewController.swift: Premium Plus Welcome" = "Lookoutプレミアムプラスにようこそ！";
+/* User-facing name for premium account type. */
+"OnboardingInformationViewController.swift: Premium" = "プレミアム";
+/* User-facing name for premium plus account type. */
+"OnboardingInformationViewController.swift: Premium Plus" = "プレミアムプラス";
+/* Subtitle to be displayed on screen */
+"OnboardingInformationViewController.swift: Information Text" = "既にLookout %@にアクセス可能となっているようです。これからセットアップを開始します。";
+/* Button title for dismissing screen */
+"OnboardingInformationViewController.swift: Start button" = "開始する";
+
+/* ---------------------------------------------------------------- */
+/* ------------- UI/Authentication/SCLAuthenticationViewController.swift -- */
+/* ---------------------------------------------------------------- */
+/* Screen Title for Account Creation  */
+"SCLAuthenticationViewController.swift: Account Creation" = "プレミアムコード%@を正常に取得しました。利用登録してLookoutプレミアムを有効化してください。";
+/* Screen Title for login into existing account  */
+"SCLAuthenticationViewController.swift: Login Account" = "プレミアムコード%@を正常に取得しました。ログインしてLookoutプレミアムを有効化してください。";
+/* Title for login button */
+"SCLAuthenticationViewController.swift: Login button" = "Lookoutプレミアムを有効化";
+/* Title for Signup button */
+"SCLAuthenticationViewController.swift: Signup button" = "Lookoutプレミアムを有効化";
+
+/* ------------------------------------------------------------------ */
+/* ------- UI/Notifications/NotificationsViewController.swift ------- */
+/* ------------------------------------------------------------------ */
+/* Title text for the notification center screen */
+"NotificationsViewController.swift: Title" = "通知センター";
+/* Title for the notifications table header; shown when there are features to be enabled.  */
+"NotificationsViewController.swift: Table Header Title" = "保護を有効化してください";
+
+/* ---------------------------------------------------------------------- */
+/* ------- UI/Notifications/NCNotificationPermissionFeature.swift ------- */
+/* ---------------------------------------------------------------------- */
+/* Title for notification permission */
+"NCNotificationPermissionFeature.swift: Title" = "通知のパーミッション";
+/* Description text for notification permission */
+"NCNotificationPermissionFeature.swift: Description" = "お客様のプライバシーやID、セキュリティを常時保護できるよう、Lookoutに最新情報の送信をLookoutに許可します　";
+
+/* -------------------------------------------------------------- */
+/* ------- UI/Notifications/NCLocateMyDeviceFeature.swift ------- */
+/* -------------------------------------------------------------- */
+/* Title for Locate My Device feature */
+"NCLocateMyDeviceFeature.swift: Title" = "端末の位置検索";
+/* Description text for Locate My Device feature */
+"NCLocateMyDeviceFeature.swift: Description" = "端末の紛失時に端末の精確な位置を検索するほか、警報音を鳴らしたり、カスタムメッセージを端末に表示するなどの端末管理をします";
+
+/* ------------------------------------------------------------ */
+/* ------- UI/Notifications/NCSafeBrowsingFeature.swift ------- */
+/* ------------------------------------------------------------ */
+/* Description text for safe browsing */
+"NCSafeBrowsingFeature.swift: Description" = "安全なウェブ閲覧を実現し、個人情報を盗む恐れのあるサイトや端末にマルウェアを送りこむサイトをブロックします";
+
+/* ----------------------------------------------------- */
+/* ------- UI/Notifications/NCIDProFeature.swift ------- */
+/* ----------------------------------------------------- */
+/* Description text for ID Protection */
+"NCIDProFeature.swift: Description" = "お客様に関するデータを監視し、ダークウェブで検知した場合はお客様に通知し、ID情報を保護できるようにします";
+
+/* ------------------------------------------------------------ */
+/* ------- UI/Notifications/NCBreachReportFeature.swift ------- */
+/* ------------------------------------------------------------ */
+/* Description text for Breach Report */
+"NCBreachReportFeature.swift: Description" = "お使いの企業やサービスがデータ侵害を受けた場合は通知し、お客様を保護できるようにします";
+
+/* ---------------------------------------------------------- */
+/* ------- UI/Notifications/NCTheftAlertFeature.swift ------- */
+/* ---------------------------------------------------------- */
+/* Description text for Theft Alert feature */
+"NCTheftAlertFeature.swift: Description" = "端末上の疑わしいアクティビティについて最新情報を送信することにより不正利用を阻止し、個人情報を保護します";
+
+/* ------------------------------------------------------- */
+/* ------- UI/Notifications/NotificationCell.swift ------- */
+/* ------------------------------------------------------- */
+/* Text to be appended to feature descriptions */
+"NotificationCell.swift: Add On Description" = "\n\nセットアップはごく短時間で済みます";
+
+/* ---------------------------------------------------------------------- */
+/* ------ UI/SecureDNSPromo/SecureDNSPromoViewController.swift ---- */
+/* ---------------------------------------------------------------------- */
+/* Title of secureDNS promotion view */
+"SecureDNSPromoViewController.swift: Introduction Title" = "プライバシーガードを\nLookoutに導入";
+/* Tile of secureDNS promotion description */
+"SecureDNSPromoViewController.swift: Description Title" = "プライバシーガードは以下を自動的に実行し、安心してインターネットを閲覧できる機能です：";
+/* Description of secureDNS promotion in the first paragraph */
+"SecureDNSPromoViewController.swift: Description Paragraph 1" = "\U2022 サイトへのリクエストを暗号化し、第三者がお客様のアクティビティを監視できないようにします。";
+/* Description of secureDNS promotion in the second paragraph */
+"SecureDNSPromoViewController.swift: Description Paragraph 2" = "\U2022 サイバー犯罪者が正規のサイトを遮断したり、危険なサイトにリダイレクトさせないようにします。";
+
+/* --------------------------------------------------------------- */
+/* ------- UI/SecureDNS/SecureDNSSetupViewController.swift ------- */
+/* --------------------------------------------------------------- */
+/* Text to be displayed over image on Secure DNS setup screen */
+"SecureDNSSetupViewController.swift: Summary Header Label" = "プライバシーガードで\nデジタルフットプリントを隠します";
+/* Text for Secure DNS summary header label */
+"SecureDNSSetupViewController.swift: Summary Detail Label" = "端末保護によりハッカーによるアクティビティ追跡を遮断します。";
+/* Heading to be displayed on top of Secure DNS Setup Instructions screen */
+"SecureDNSSetupViewController.swift: Instructions Heading" = "プライバシーガードをセットアップ";
+/* Title for Secure DNS setup button */
+"SecureDNSSetupViewController.swift: Enable Button" = "プライバシーガードを有効化";
+/* Text for step 1 in order to setup Secure DNS */
+"SecureDNSSetupViewController.swift: Step 1 Detail Text" = "「設定 -> 一般」から「VPN & ネットワーク」または「VPN & デバイス管理」を開きます";
+
+/* --------------------------------------------------------------- */
+/* ------- UI/SecureDNS/PersonalSecureDNSSetupHandler.swift ------ */
+/* --------------------------------------------------------------- */
+/* Alert title for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Title" = "最新OSにアップデート";
+/* Alert message for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Message" = "プライバシーガード機能を正しくセットアップするため、最新バージョンのOSにアップデートしてください";
+/* Alert cancel button title for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Cancel Button Title" = "キャンセル";
+/* Alert yes button title for operating system update during Secure DNS setup */
+"PersonalSecureDNSSetupHandler.swift: OS Update Yes Button Title" = "アップデート";
+
+/* ------------------------------------------------------------------------ */
+/* ------- UI/SecureDNS/SecureDNSUpsellAndSetupViewController.swift ------- */
+/* ------------------------------------------------------------------------ */
+/* Title for the Enable Secure DNS view controller. */
+"SecureDNSUpsellViewController.swift: Screen Title" = "セーフブラウジング";
+/** Heading text for Enable Secure DNS screen */
+"SecureDNSUpsellViewController.swift: Heading" = "プライバシー強化と\n保護の追加で\nサイバー犯罪に備えます";
+/* Text for step 1 in order to setup Secure DNS */
+"SecureDNSUpsellViewController.swift: Step 1 Detail Text" = "「設定 -> 一般」から「VPN & ネットワーク」または「VPN & デバイス管理」を開きます";
+/** Sub-heading text for Secure DNS Upsell screen */
+"SecureDNSUpsellViewController.swift: Sub-heading" = "運用の仕組み";
+/** Text for About Secure DNS info label */
+"SecureDNSUpsellViewController.swift: Detail Text" = "お客様がウェブサイトを開いて検索リクエストを送信する際、Lookoutの機能がプライバシー保護を強化します。リクエストが暗号化されずに送信されると、サイバー犯罪者によってお客様のアクティビティが監視されたり、知らないうちに悪質サイトにリダイレクトさせられる恐れがあります。\n\nプライバシーガードは第三者の介入に対し、以下を実行して自動的にお客様のデータを保護します。\n\U2022 サイトへのリクエストを暗号化し、第三者がお客様のアクティビティを監視できないようにします。\n\U2022 サイバー犯罪者が正規のサイトを遮断したり、危険なサイトにリダイレクトさせないようにします。";
+/* Title for Enable Secure DNS button */
+"SecureDNSUpsellViewController.swift: Enable Button" = "有効化";
+/* Heading to be displayed on top of Secure DNS Setup Instructions screen */
+"SecureDNSUpsellViewController.swift: Instructions Heading" = "プライバシーガードをセットアップ";
+/* Title of the button allowing user to get Premium subscription. */
+"SecureDNSUpsellViewController.swift: Get Premium Button Title" = "プレミアムにアップグレード";
+/* Local notification title when user has completed Secure DNS setup */
+"SecureDNSUpsellViewController.swift: Alert Title" = "プライバシーガードを有効化";
+/* Local notification message when user has completed Secure DNS setup */
+"SecureDNSUpsellViewController.swift: Alert Message" = "強化されたセーフブラウジング機能で保護を開始しました。";
+
+/* ---------------------------------------------------------------------------------------------- */
+/* ------- UI/Dashboard/Feature/FeatureContent/PersonalSafeBrowsingDashboardContent.swift ------- */
+/* ---------------------------------------------------------------------------------------------- */
+/* Dashboard Safe Browsing tile tag */
+"PersonalSafeBrowsingDashboardContent.swift: Safe Browsing Tile Tag" = "NEW";
+
+/* ------------------------------------------------------------------- */
+/* ------- UI/SecureDNS/SecureDNSDashboardViewController.swift ------- */
+/* ------------------------------------------------------------------- */
+/* Title for the Secure DNS Dashboard view controller. */
+"SecureDNSDashboardViewController.swift: Screen Title" = "セーフブラウジング";
+/* Safe Browsing feature name */
+"SecureDNSDashboardViewController.swift: Safe Browsing Feature Name" = "セーフブラウジング";
+/* Safe Browsing short description text */
+"SecureDNSDashboardViewController.swift: Safe Browsing Short Description" = "悪質なサイトやフィッシング攻撃をシャットアウトします";
+/* Text for today activity header label for Secure DNS enabled state */
+"SecureDNSDashboardViewController.swift: Activity Header Label Enabled" = "今日のアクティビティ";
+/* Text for today activity header label for Secure DNS disabled state */
+"SecureDNSDashboardViewController.swift: Activity Header Label Disabled" = "潜在的リスク：";
+/* Text for displaying number of flagged URLs */
+"SecureDNSDashboardViewController.swift: SB Enabled Activity Label" = "件の要注意URL";
+/* Text for displaying potential risk when Secure DNS is disabled */
+"SecureDNSDashboardViewController.swift: SB Disabled Activity Label" = "URLが保護されない可能性があります";
+/* Secure DNS feature name */
+"SecureDNSDashboardViewController.swift: Secure DNS Feature Name" = "プライバシーガード";
+/* Text for Secure DNS state enabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Enabled State" = "有効";
+/* Text for Secure DNS state disabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Disabled State" = "無効";
+/* Secure DNS short description text */
+"SecureDNSDashboardViewController.swift: Secure DNS Short Description" = "潜在的なハッカーからオンラインアクティビティを隠します。";
+/* Text for activity label when Secure DNS is enabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Enabled Activity Value Label" = "オンライン追跡からすべてのURLが保護されます";
+/* Text for activity label when Secure DNS is disabled */
+"SecureDNSDashboardViewController.swift: Secure DNS Disabled Activity Value Label" = "URLがオンライン追跡可能となります";
+/* Disclaimer text for number of urls flagged*/
+"SecureDNSDashboardViewController.swift: Disclaimer Label" = "* URLの件数は閲覧したウェブページ数より大きくなります。これはウェブサイトの1ぺージを開いても、複数のURLが同時に読み込まれているためです。";
+/* Text for local notification title to confirm Secure DNS deactivation */
+"SecureDNSDashboardViewController.swift: Alert Title" = "セーフブラウジングを無効化します。よろしいですか？";
+/* Text for local notification message to confirm Secure DNS deactivation */
+"SecureDNSDashboardViewController.swift: Alert Message" = "セーフブラウジングをオフにすると、Lookoutは潜在的な脅威やフィッシング詐欺攻撃から保護できません。";
+/* Heading to be displayed on top of Secure DNS Setup Instructions screen */
+"SecureDNSDashboardViewController.swift: Instructions Heading" = "プライバシーガードをセットアップ";
+
+/* ---------------------------------------------------------- */
+/* ------- UI/SecureDNS/SecureDNSInfoViewController.swift ------- */
+/* ---------------------------------------------------------- */
+/* Text for how it works heading */
+"SecureDNSInfoViewController.swift: How Secure DNS Works Heading" = "運用の仕組み";
+/* Text for how it works */
+"SecureDNSInfoViewController.swift: How Secure DNS Works Detail Text" = "お客様がウェブサイトを開いて検索リクエストを送信する際、Lookoutの機能がプライバシー保護を強化します。リクエストが暗号化されずに送信されると、サイバー犯罪者によってお客様のアクティビティが監視されたり、知らないうちに悪質サイトにリダイレクトさせられる恐れがあります。\n\nプライバシーガードは第三者の介入に対し、以下を実行して自動的にお客様のデータを保護します。\n\U2022 サイトへのリクエストを暗号化し、第三者がお客様のアクティビティを監視できないようにします。\n\U2022 サイバー犯罪者が正規のサイトを遮断したり、危険なサイトにリダイレクトさせないようにします。";
+
+/* --------------------------------------------- */
+/* ------- UI/SecureDNS/PushNotification ------- */
+/* --------------------------------------------- */
+/* Secure DNS malicious push notification title */
+"MALICIOUS_CONTENT_TITLE" = "悪質なコンテンツ";
+/* Secure DNS malicious push notification message */
+"MALICIOUS_CONTENT_BODY" = "ユーザーアクティビティ（アプリまたはブラウザ上）またはアプリのバックグラウンドアクティビティにより、この端末は悪質なコンテンツに遭遇しました";
+/* Secure DNS phishing push notification title */
+"PHISHING_CONTENT_TITLE" = "フィッシング詐欺コンテンツ";
+/* Secure DNS phishing push notification message */
+"PHISHING_CONTENT_BODY" = "端末がユーザーアクティビティ（アプリまたはブラウザで）またはアプリのバックグラウンドアクティビティでフィッシング詐欺コンテンツに遭遇しました。";
+/* Secure DNS session refresh push notification title */
+"PCP_DOH_SESSION_REFRESH_TITLE" = "アプリを起動してセーフブラウジングを復元";
+/* Secure DNS session refresh push notification message */
+"PCP_DOH_SESSION_REFRESH_BODY" = "アプリの起動後、セーフブラウジングが復元されて安全にウェブサイトを閲覧できるようになります。";
+
+/* ----------------------------------------------------------------- */
+/* ------- UI/SecureDNS/PersonalSecureDNSToggleHandler.swift ------- */
+/* ----------------------------------------------------------------- */
+/* Heading text for Enable Secure DNS screen */
+"PersonalSecureDNSToggleHandler.swift: Heading" = "プライバシー強化と\n保護の追加で\nサイバー犯罪に備えます";
+/* Text for step 1 in order to setup Secure DNS */
+"PersonalSecureDNSToggleHandler.swift: Step 1 Detail Text" = "「設定 -> 一般」から「VPN & ネットワーク」または「VPN & デバイス管理」を開きます";
+
+/* ------------------------------------------------------------------- */
+/* ------- Functionality/Application/PersonalInformation.swift ------- */
+/* ------------------------------------------------------------------- */
+/* Text for Secure DNS Provider Display Name */
+"PersonalInformation: Secure DNS Provider Display Name" = "Lookout プライバシーガード";

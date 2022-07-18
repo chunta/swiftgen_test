@@ -1,0 +1,6 @@
+framework module Pods_GenPractice_GenPracticeUITests {
+  umbrella header "Pods-GenPractice-GenPracticeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

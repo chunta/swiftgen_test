@@ -1,0 +1,6 @@
+framework module Pods_GenPractice {
+  umbrella header "Pods-GenPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
