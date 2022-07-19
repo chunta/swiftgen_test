@@ -19,6 +19,8 @@
 		61120A7B2885A8DC0039DBFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61120A7A2885A8DC0039DBFF /* Main.storyboard */; };
 		61120A7D2885AB970039DBFF /* Strings+Generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61120A7C2885AB970039DBFF /* Strings+Generated.swift */; };
 		61120A802885B1190039DBFF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 61120A822885B1190039DBFF /* Localizable.strings */; };
+		61E5D0B52886C00C006DDCF2 /* Color.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61E5D0B42886C00C006DDCF2 /* Color.xcassets */; };
+		61E5D0B72886C15B006DDCF2 /* Color+Generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E5D0B62886C15B006DDCF2 /* Color+Generated.swift */; };
 		846BF951C645B247F67647F1 /* Pods_GenPractice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F513D5300269ACB98FF66D91 /* Pods_GenPractice.framework */; };
 		E1D654E5C77635FA1E97FBA5 /* Pods_GenPracticeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8003B9B292138756381EF182 /* Pods_GenPracticeTests.framework */; };
 /* End PBXBuildFile section */
@@ -60,6 +62,8 @@
 		61120A7C2885AB970039DBFF /* Strings+Generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Strings+Generated.swift"; sourceTree = SOURCE_ROOT; };
 		61120A812885B1190039DBFF /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		61120A832885B11C0039DBFF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		61E5D0B42886C00C006DDCF2 /* Color.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Color.xcassets; sourceTree = "<group>"; };
+		61E5D0B62886C15B006DDCF2 /* Color+Generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Generated.swift"; sourceTree = SOURCE_ROOT; };
 		7A0836110857FE7261F34027 /* Pods-GenPracticeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GenPracticeTests.debug.xcconfig"; path = "Target Support Files/Pods-GenPracticeTests/Pods-GenPracticeTests.debug.xcconfig"; sourceTree = "<group>"; };
 		8003B9B292138756381EF182 /* Pods_GenPracticeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GenPracticeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C5E5C69DBB5FF2AF3509761 /* Pods_GenPractice_GenPracticeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GenPractice_GenPracticeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -134,6 +138,7 @@
 		61120A45288596BA0039DBFF /* GenPractice */ = {
 			isa = PBXGroup;
 			children = (
+				61E5D0B62886C15B006DDCF2 /* Color+Generated.swift */,
 				61120A7C2885AB970039DBFF /* Strings+Generated.swift */,
 				61120A7A2885A8DC0039DBFF /* Main.storyboard */,
 				61120A46288596BA0039DBFF /* AppDelegate.swift */,
@@ -143,6 +148,7 @@
 				61120A54288596BB0039DBFF /* Info.plist */,
 				61120A782885A8AD0039DBFF /* LaunchScreen.storyboard */,
 				61120A822885B1190039DBFF /* Localizable.strings */,
+				61E5D0B42886C00C006DDCF2 /* Color.xcassets */,
 			);
 			path = GenPractice;
 			sourceTree = "<group>";
@@ -284,6 +290,7 @@
 			files = (
 				61120A7B2885A8DC0039DBFF /* Main.storyboard in Resources */,
 				61120A802885B1190039DBFF /* Localizable.strings in Resources */,
+				61E5D0B52886C00C006DDCF2 /* Color.xcassets in Resources */,
 				61120A50288596BB0039DBFF /* Assets.xcassets in Resources */,
 				61120A792885A8AD0039DBFF /* LaunchScreen.storyboard in Resources */,
 			);
@@ -383,6 +390,7 @@
 				61120A47288596BA0039DBFF /* AppDelegate.swift in Sources */,
 				61120A7D2885AB970039DBFF /* Strings+Generated.swift in Sources */,
 				61120A49288596BA0039DBFF /* SceneDelegate.swift in Sources */,
+				61E5D0B72886C15B006DDCF2 /* Color+Generated.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -563,6 +571,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -592,6 +601,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
